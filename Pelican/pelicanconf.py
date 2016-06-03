@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Nils Giordano'
 
 SITENAME = 'Nils Giordano'
-SITEURL = 'http://www.normalesup.org/~giordano/'
+SITEURL = 'http://www.normalesup.org/~giordano'
 TIMEZONE = 'Europe/Paris'
 DEFAULT_LANG = 'en'
 DEFAULT_CATEGORY = 'Misc'
@@ -30,16 +30,25 @@ THEME = 'themes/pelican-bootstrap3'
 BOOTSTRAP_THEME = 'simplex'
 BOOTSTRAP_NAVBAR_INVERSE = False
 FAVICON = 'extra/favicon.png'
-ABOUT_ME = 'Computational biologist with lab skills'
+ABOUT_ME = '<i class="fa fa-envelope-o" aria-hidden="true"></i>\
+        <script type="text/javascript" src="extra/email.js"></script>\
+        <noscript>[Enable JavaScript to see my email address]</noscript><br />\
+        <i class="fa fa-phone" aria-hidden="true"></i> +33 (0)476615300<br />\
+        <br />\
+        Inria Grenoble − Rhône-Alpes<br />\
+        Inovallée<br />\
+        655 avenue de l\'Europe<br />\
+        Montbonnot<br />\
+        38334 Saint-Ismier Cedex, France'
+AVATAR = 'images/avatar.jpg'
+SIDEBAR_ONLY_ON_INDEX = True
 DISPLAY_CATEGORIES_ON_MENU = True
 DISPLAY_PAGES_ON_MENU = True
+PAGE_ORDER_BY = 'rank'
 MENUITEMS = (
-        ('HOME', '/'),
-        ('RESEARCH', '/research/overview.html'),
-        ('TEACHING', '/teaching/overview.html'),
-        ('BLOG', '/blog.html'),
-        ('CV', '/cv.html'),
+        ('Home', ''),
 )
+CC_LICENSE = 'CC-BY-NC'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -49,13 +58,14 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Inria', 'https://www.inria.fr'),
-         ('École Normale Supérieure', 'https://www.ens.fr/'),
-         ('Bioinfo-fr', 'https://bioinfo-fr.net'),)
+LINKS = (('Inria project-team Ibis', 'https://team.inria.fr/ibis'),
+         ('Dynamic Ecology', 'https://dynamicecology.wordpress.com'),
+         ('(fr) Bioinfo-fr', 'https://bioinfo-fr.net'),)
 
 # Social widget
 SOCIAL = (('Github', 'https://github.com/nigiord'),
-          ('Google Scholar', 'https://scholar.google.fr/citations?user=r4wI-i4AAAAJ'),)
+          ('Google Scholar', 'https://scholar.google.fr/citations?user=r4wI-i4AAAAJ'),
+          ('Orcid', 'https://orcid.org/0000-0003-2549-6631'))
 
 DEFAULT_PAGINATION = 10
 LOAD_CONTENT_CACHE = False
