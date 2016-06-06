@@ -40,13 +40,13 @@ ABOUT_ME = '<i class="fa fa-envelope-o" aria-hidden="true"></i>\
         655 avenue de l\'Europe<br />\
         Montbonnot<br />\
         38334 Saint-Ismier Cedex, France'
-AVATAR = 'images/avatar.jpg'
+#AVATAR = 'images/avatar.jpg'
 SIDEBAR_ONLY_ON_INDEX = True
 DISPLAY_CATEGORIES_ON_MENU = True
 DISPLAY_PAGES_ON_MENU = True
 PAGE_ORDER_BY = 'rank'
 MENUITEMS = (
-        ('Home', ''),
+    ('Home', 'http://www.normalesup.org/~giordano'),
 )
 CC_LICENSE = 'CC-BY-NC'
 
