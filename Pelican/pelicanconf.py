@@ -12,7 +12,7 @@ DEFAULT_CATEGORY = 'Misc'
 
 PATH = '../raw'
 OUTPUT_PATH = '../WWW'
-STATIC_PATHS = ['extra', 'images', 'pdfs']
+STATIC_PATHS = ['extra', 'images', 'pdfs', 'misc']
 EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
     'extra/favicon.ico': {'path': 'favicon.ico'},
@@ -23,6 +23,7 @@ RELATIVE_URLS = True
 PLUGIN_PATHS = ['./plugins']
 PLUGINS = ['extract_toc','render_math','better_figures_and_images']
 MD_EXTENSIONS = ['codehilite','extra','smarty', 'toc']
+RESPONSIVE_IMAGES = True
 
 
 # Theme configuration
@@ -30,6 +31,15 @@ THEME = 'themes/pelican-bootstrap3'
 BOOTSTRAP_THEME = 'simplex'
 BOOTSTRAP_NAVBAR_INVERSE = False
 FAVICON = 'extra/favicon.png'
+#ABOUT_ME = '<i class="fa fa-envelope-o" aria-hidden="true"></i>\
+#        <a href="http://www.google.com/recaptcha/mailhide/d?k=01vxJflfgEQgNevK72lauzLg==&amp;c=yqWFIeJ0ACeMcuh8CgQ1S3W_cX_5CqtVKYFcN1-8uUA=" onclick="window.open(\'http://www.google.com/recaptcha/mailhide/d?k\x3d01vxJflfgEQgNevK72lauzLg\x3d\x3d\x26c\x3dyqWFIeJ0ACeMcuh8CgQ1S3W_cX_5CqtVKYFcN1-8uUA\x3d', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300\'); return false;" title="Reveal this e-mail address">n...</a>@inria.fr\
+#        <i class="fa fa-phone" aria-hidden="true"></i> +33 (0)476615300<br />\
+#        <br />\
+#        Inria Grenoble − Rhône-Alpes<br />\
+#        Inovallée<br />\
+#        655 avenue de l\'Europe<br />\
+#        Montbonnot<br />\
+#        38334 Saint-Ismier Cedex, France'
 ABOUT_ME = '<i class="fa fa-envelope-o" aria-hidden="true"></i>\
         <script type="text/javascript" src="extra/email.js"></script>\
         <noscript>[Enable JavaScript to see my email address]</noscript><br />\
