@@ -12,7 +12,7 @@ DEFAULT_CATEGORY = 'Misc'
 
 PATH = '../raw'
 OUTPUT_PATH = '../WWW'
-STATIC_PATHS = ['extra', 'images', 'pdfs', 'misc']
+STATIC_PATHS = ['extra', 'images', 'pdfs']
 EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
     'extra/favicon.ico': {'path': 'favicon.ico'},
@@ -79,3 +79,4 @@ SOCIAL = (('Github', 'https://github.com/nigiord'),
 
 DEFAULT_PAGINATION = 10
 LOAD_CONTENT_CACHE = False
+DELETE_OUTPUT_DIRECTORY = True
