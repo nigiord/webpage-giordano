@@ -1,8 +1,10 @@
-Title: About Me
+Title: Nils Giordano
 Url: index.html
 Save_as: index.html
-Status: hidden
 Slug: about
+Status: hidden
+
+### Prospective Post-doc in Computational Biology
 
 I'm a research and teaching assistant in computational biology at Université Grenoble Alpes (France).
 I'm currently writing my PhD thesis about my work in [project-team Ibis](https://team.inria.fr/ibis/) (Inria Grenoble - Rhône-Alpes)
