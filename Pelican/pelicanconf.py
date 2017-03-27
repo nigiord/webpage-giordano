@@ -37,6 +37,7 @@ RESPONSIVE_IMAGES = True
 # Theme configuration
 THEME = '../../pelican-themes/pelican-bootstrap3'
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
+I18N_SUBSITES = {'fr': {}}
 BOOTSTRAP_THEME = 'spacelab'
 BOOTSTRAP_NAVBAR_INVERSE = False
 FAVICON = 'extra/favicon.png'
@@ -54,7 +55,7 @@ ABOUT_ME = '<i class="fa fa-envelope-o" aria-hidden="true"></i>\
 SIDEBAR_ONLY_ON_INDEX = True
 DISPLAY_CATEGORIES_ON_MENU = True
 DISPLAY_PAGES_ON_MENU = True
-PAGE_ORDER_BY = 'rank'
+PAGES_SORT_ATTRIBUTE = 'rank'
 MENUITEMS = (
     ('About', '/'),
 )
