@@ -1,7 +1,7 @@
-Title: Research
-Url: research.html
-Save_as: research.html
-Lang: en
+Title: Recherche
+Url: recherche.html
+Save_as: recherche.html
+Lang: fr
 slug: research
 Rank: 0
 
@@ -29,51 +29,51 @@ Rank: 0
 </table>
 
 
-###Talks and Workshops
+###Présentations, conférences et workshops
 
 <table class="table">
 <tbody>
     <tr>
-        <td align='center'>Jul. 2016</td>
+        <td align='center'>Juillet 2016</td>
         <td>
-            Presentation in a workshop on Systemic and Symbolic Biology (BIOSS)
+            Présentation dans un workshop sur la Biologie Systemique et Symbolique (BIOSS)
         </td>
         <td align='center'>
             Lyon, France
         </td>
         <td align='center'>
-            <a href="">Presentation</a>
+            <a href="">Présentation</a>
         </td>
     </tr>
     <tr>
         <td align='center'>Oct. 2015</td>
         <td>
-            Presentation in a seminar on the Modeling of Life (SeMoVi)
+            Présentation dans lors des Séminaires sur la Modélisation du Vivant (SeMoVi)
         </td>
         <td align='center'>
             Grenoble, France
         </td>
         <td align='center'>
-            <a href="">Presentation</a>
+            <a href="">Présentation</a>
         </td>
     </tr>
     <tr>
         <td align='center'>Apr. 2015</td>
         <td>
-            Presentation at the Advanced Lecture Course on Computational System Biology (CompSysBio)
+            Présentation lors du Advanced Lecture Course on Computational System Biology (CompSysBio)
         </td>
         <td align='center'>
             Aussois, France
         </td>
         <td align='center'>
-            <a href="">Presentation</a>,
+            <a href="">Présentation</a>,
             <a href="">Poster</a>
         </td>
     </tr>
     <tr>
         <td align='center'>Mar. 2015</td>
         <td>
-            Participation in the workshop Integrative Cell Models at Lorentz Center
+            Participation au workshop Integrative Cell Models au Lorentz Center
         </td>
         <td align='center'>
             Leiden, The Netherlands
@@ -84,14 +84,14 @@ Rank: 0
     <tr>
         <td align='center'>Jul. 2014</td>
         <td>
-            Contribution at the International Symposium on Mathematical Theory of Networks and Systems (MTNS)
+            Contribution à l'International Symposium on Mathematical Theory of Networks and Systems (MTNS)
         </td>
         <td align='center'>
-            Groningen, The Netherlands
+            Groningen, Pays-Bas
         </td>
         <td align='center'>
             <a href="https://hal.inria.fr/hal-01079299/">Extended abstract</a>,
-            <a href="">Presentation</a>
+            <a href="">Présentation</a>
         </td>
     </tr>
 </tbody>
