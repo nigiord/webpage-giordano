@@ -4,24 +4,29 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Nils Giordano'
 
-SITENAME = "Yet Another Dr."
+SITENAME = "Nils Giordano"
 SITEURL = 'http://www.normalesup.org/~giordano'
 TIMEZONE = 'Europe/Paris'
 DEFAULT_LANG = 'en'
 #DEFAULT_CATEGORY = 'Misc'
 
-PATH = '../raw'
+PATH = '../Raw'
 OUTPUT_PATH = '../WWW'
 STATIC_PATHS = ['extra', 'images', 'pdfs']
+
 EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
     'extra/favicon.ico': {'path': 'favicon.ico'},
-    'extra/htaccess': {'path': '.htaccess'}
+    'extra/htaccess': {'path': '.htaccess'},
+    'extra/custom.css': {'path': 'static/custom.css'}
 }
 RELATIVE_URLS = True
 
 PLUGIN_PATHS = ['./plugins']
-PLUGINS = ['i18n_subsites']
+PLUGINS = ['i18n_subsites',
+           'pelican_resume',
+           'pelican-bootstrapify']
+
 MARKDOWN = {
         'extension_configs': {
                     'markdown.extensions.codehilite': {'css_class': 'highlight'},
@@ -32,32 +37,28 @@ MARKDOWN = {
         'output_format': 'html5',
 }
 RESPONSIVE_IMAGES = True
+HIDE_SIDEBAR = True
+#BANNER = 'extra/kastarpowa.gif'
+BANNER_ALL_PAGES = True
+BANNER_ONLY = True
 
+# Configuration for the pelican-resume plugin that generate pdf for CV
+RESUME_SRC = 'pages/cv.md'
+RESUME_PDF = 'pdfs/cv_giordano.pdf'
 
 # Theme configuration
 THEME = '../../pelican-themes/pelican-bootstrap3'
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 I18N_SUBSITES = {'fr': {}}
 BOOTSTRAP_THEME = 'spacelab'
+CUSTOM_CSS = 'static/custom.css'
 BOOTSTRAP_NAVBAR_INVERSE = False
-FAVICON = 'extra/favicon.png'
-ABOUT_ME = '<i class="fa fa-envelope-o" aria-hidden="true"></i>\
-        <script type="text/javascript" src="extra/email.js"></script>\
-        <noscript>[Enable JavaScript to see my email address]</noscript><br />\
-        <i class="fa fa-phone" aria-hidden="true"></i> +33 (0)476615300<br />\
-        <br />\
-        Inria Grenoble − Rhône-Alpes<br />\
-        Inovallée<br />\
-        655 avenue de l\'Europe<br />\
-        Montbonnot<br />\
-        38334 Saint-Ismier Cedex, France'
-#AVATAR = 'images/avatar.jpg'
 SIDEBAR_ONLY_ON_INDEX = True
 DISPLAY_CATEGORIES_ON_MENU = True
 DISPLAY_PAGES_ON_MENU = True
 PAGES_SORT_ATTRIBUTE = 'rank'
 MENUITEMS = (
-    ('About', '/'),
+    ('Home', './'),
 )
 CC_LICENSE = 'CC-BY-NC'
 
@@ -76,7 +77,10 @@ AUTHOR_FEED_RSS = None
 # Social widget
 SOCIAL = (('Github', 'https://github.com/nigiord'),
           ('Google Scholar', 'https://scholar.google.fr/citations?user=r4wI-i4AAAAJ'),
-          ('Orcid', 'https://orcid.org/0000-0003-2549-6631'))
+          ('Orcid', 'https://orcid.org/0000-0003-2549-6631'),
+          ('CV', 'pdfs/cv_giordano.pdf')
+         )
+INCLUDE_SOCIAL_IN_NAVBAR = True
 
 GITHUB_USER = 'nigiord'
 DEFAULT_PAGINATION = 10

@@ -68,4 +68,4 @@ Rank: 1
     </tr>
     </tfoot>
 </table>
-(Note: L - Lecture; T - Tutorial; PW - Pratical Work)
+(Note: L - Lecture; T - Tutorial; PW - Practical Work)
