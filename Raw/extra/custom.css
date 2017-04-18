@@ -1,0 +1,61 @@
+.navbar {
+    font-size: 20px;
+    line-height: 1.628571;
+}
+
+.navbar-brand {
+    font-size: 30px;
+}
+
+.navbar-right {
+    font-size: 30px;
+}
+
+.entry-content {
+    font-size: 17px;
+    line-height: 1.628571;
+}
+
+
+h1, h2, h3 {
+  color:#336600;
+  line-height: 1.5em;
+}
+
+/*h2:after{
+  color:#336600;
+  content:'';
+  display:inline-block;
+  width:100%; height:100%;
+  margin-right:-100%;
+  border-bottom:1px solid #000;
+}*/
+h2:after{
+    content:' ';
+    display:block;
+    border:2px solid #d0d0d0;
+    border-radius:4px;
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px;
+    box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);
+    -webkit-box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);
+    -moz-box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);
+}
+
+#nils-giordano-phd {
+  text-align:center;
+}
+
+blockquote {
+    text-align: center; 
+}
+
+dt {
+  float: left;
+  width: 20%; /* must do 100% with dl */
+}
+
+dd {
+  float: left;
+  width: 80%; /* must do 100% with dt */
+}

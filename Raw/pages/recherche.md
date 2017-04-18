@@ -29,51 +29,63 @@ Rank: 0
 </table>
 
 
-###Présentations, conférences et workshops
+###Talks and Workshops
 
 <table class="table">
 <tbody>
     <tr>
-        <td align='center'>Juillet 2016</td>
+        <td align='center'>Mar. 2017</td>
         <td>
-            Présentation dans un workshop sur la Biologie Systemique et Symbolique (BIOSS)
-        </td>
-        <td align='center'>
-            Lyon, France
-        </td>
-        <td align='center'>
-            <a href="">Présentation</a>
-        </td>
-    </tr>
-    <tr>
-        <td align='center'>Oct. 2015</td>
-        <td>
-            Présentation dans lors des Séminaires sur la Modélisation du Vivant (SeMoVi)
+            PhD Thesis Defense
         </td>
         <td align='center'>
             Grenoble, France
         </td>
         <td align='center'>
-            <a href="">Présentation</a>
+            <a href="pdfs/thesis_defense.pdf"><i class="fa fa-file-pdf-o fa-2x"></i></a> 
+        </td>
+    </tr>
+    <tr>
+        <td align='center'>Jul. 2016</td>
+        <td>
+            Presentation in a workshop on Systemic and Symbolic Biology (BIOSS)
+        </td>
+        <td align='center'>
+            Lyon, France
+        </td>
+        <td align='center'>
+            <a href="pdfs/bioss_2016.pdf"><i class="fa fa-file-pdf-o fa-2x"></i></a> 
+        </td>
+    </tr>
+    <tr>
+        <td align='center'>Oct. 2015</td>
+        <td>
+            Presentation in a seminar on the Modeling of Life (SeMoVi)
+        </td>
+        <td align='center'>
+            Grenoble, France
+        </td>
+        <td align='center'>
+            <a href="pdfs/semovi_2015.pdf"><i class="fa fa-file-pdf-o fa-2x"></i></a> 
         </td>
     </tr>
     <tr>
         <td align='center'>Apr. 2015</td>
         <td>
-            Présentation lors du Advanced Lecture Course on Computational System Biology (CompSysBio)
+            Presentation at the Advanced Lecture Course on Computational System Biology (CompSysBio)
         </td>
         <td align='center'>
             Aussois, France
         </td>
         <td align='center'>
-            <a href="">Présentation</a>,
-            <a href="">Poster</a>
+            <a href="pdfs/compsysbio_2015.pdf"><i class="fa fa-file-pdf-o fa-2x"></i></a>
+            and <a href="pdfs/compsysbio_poster_2015.pdf"><i class="fa fa-file-pdf-o fa-2x"></i></a>
         </td>
     </tr>
     <tr>
         <td align='center'>Mar. 2015</td>
         <td>
-            Participation au workshop Integrative Cell Models au Lorentz Center
+            Participation in the workshop Integrative Cell Models at Lorentz Center
         </td>
         <td align='center'>
             Leiden, The Netherlands
@@ -84,14 +96,32 @@ Rank: 0
     <tr>
         <td align='center'>Jul. 2014</td>
         <td>
-            Contribution à l'International Symposium on Mathematical Theory of Networks and Systems (MTNS)
+            Contribution at the International Symposium on Mathematical Theory of Networks and Systems (MTNS)
         </td>
         <td align='center'>
-            Groningen, Pays-Bas
+            Groningen, The Netherlands
         </td>
         <td align='center'>
-            <a href="https://hal.inria.fr/hal-01079299/">Extended abstract</a>,
-            <a href="">Présentation</a>
+            <a href="https://hal.inria.fr/hal-01079299/"><i class="fa fa-file-pdf-o fa-2x"></i></a>
+        </td>
+    </tr>
+</tbody>
+</table>
+
+###Thesis and reports
+
+<table class="table">
+<tbody>
+    <tr>
+        <td align='center'>Mar. 2017</td>
+        <td>
+            PhD Thesis manuscript
+        </td>
+        <td align='center'>
+            Grenoble, France
+        </td>
+        <td align='center'>
+            (soon)
         </td>
     </tr>
 </tbody>

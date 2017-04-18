@@ -5,9 +5,9 @@ Lang: en
 slug: research
 Rank: 0
 
-###Publications
+##Publications
 
-<table class="table">
+<table class="table table-striped table-hover">
 <tbody>
     <tr>
         <td>2016</td>
@@ -29,10 +29,22 @@ Rank: 0
 </table>
 
 
-###Talks and Workshops
+##Talks and Workshops
 
-<table class="table">
+<table class="table table-striped table-hover">
 <tbody>
+    <tr>
+        <td align='center'>Mar. 2017</td>
+        <td>
+            PhD Thesis Defense
+        </td>
+        <td align='center'>
+            Grenoble, France
+        </td>
+        <td align='center'>
+            <a href="pdfs/thesis_defense.pdf"><i class="fa fa-file-pdf-o fa-2x"></i></a> 
+        </td>
+    </tr>
     <tr>
         <td align='center'>Jul. 2016</td>
         <td>
@@ -42,7 +54,7 @@ Rank: 0
             Lyon, France
         </td>
         <td align='center'>
-            <a href="">Presentation</a>
+            <a href="pdfs/bioss_2016.pdf"><i class="fa fa-file-pdf-o fa-2x"></i></a> 
         </td>
     </tr>
     <tr>
@@ -54,7 +66,7 @@ Rank: 0
             Grenoble, France
         </td>
         <td align='center'>
-            <a href="">Presentation</a>
+            <a href="pdfs/semovi_2015.pdf"><i class="fa fa-file-pdf-o fa-2x"></i></a> 
         </td>
     </tr>
     <tr>
@@ -66,8 +78,8 @@ Rank: 0
             Aussois, France
         </td>
         <td align='center'>
-            <a href="">Presentation</a>,
-            <a href="">Poster</a>
+            <a href="pdfs/compsysbio_2015.pdf"><i class="fa fa-file-pdf-o fa-2x"></i></a>
+            and <a href="pdfs/compsysbio_poster_2015.pdf"><i class="fa fa-file-pdf-o fa-2x"></i></a>
         </td>
     </tr>
     <tr>
@@ -90,8 +102,26 @@ Rank: 0
             Groningen, The Netherlands
         </td>
         <td align='center'>
-            <a href="https://hal.inria.fr/hal-01079299/">Extended abstract</a>,
-            <a href="">Presentation</a>
+            <a href="https://hal.inria.fr/hal-01079299/"><i class="fa fa-file-pdf-o fa-2x"></i></a>
+        </td>
+    </tr>
+</tbody>
+</table>
+
+##Thesis and reports
+
+<table class="table">
+<tbody>
+    <tr>
+        <td align='center' width="8%">Mar. 2017</td>
+        <td align='left' width="65%">
+            PhD Thesis manuscript
+        </td>
+        <td align='center' width="16%">
+            Grenoble, France
+        </td>
+        <td align='center' width="11%">
+            (coming soon)
         </td>
     </tr>
 </tbody>
