@@ -8,7 +8,7 @@ Slug: contact
 <ul class="list-group" id="social">
 <li class="list-group-item"><i class="fa fa-envelope-o" aria-hidden="true"></i>
 Email: <script type="text/javascript" src="extra/email.js"></script>
-<noscript>[Enable JavaScript to see my email address]</noscript><br />
+<noscript>[Enable JavaScript to see my email address]</noscript>
 <li class="list-group-item"><i class="fa fa-github-square fa-lg"></i>
 Github: <a href="https://github.com/nigiord">nigiord</a></li>
 <li class="list-group-item"><i class="ai ai-google-scholar-square ai-lg"></i>

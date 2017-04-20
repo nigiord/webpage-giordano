@@ -25,4 +25,4 @@ and carried out the analysis.
 But I look forward for the day robots can do the bench part!
 
 You can find more information about my background and skills on my [CV](./cv.html).
-Feel free to [contact me](./contact.html) if you think we can make a great fit!
+Feel free to [contact me](./contact.html) if I look like a good fit for your lab!
