@@ -12,9 +12,9 @@ Nils Giordano, PhD
 
 ---
 
-> **Computational Biologist** for **Synthetic Biology** and **Bioengineering**.  
-> Fluent in Biology, Computer Sciences and Maths.  
-> Well-versed in **modelling**, **data analysis** and the cruelty of bench work.
+> Computational Biologist with interests in Synthetic Biology and Bioengineering   
+> Fluent in Biology, Computer Sciences and Maths  
+> Love coding and modelling, can hit the bench when necessary
 
 ---
 
@@ -22,58 +22,51 @@ Research experience
 -------------------
 
 Sep. 2012 - Mar. 2017
-:   **Research and teaching assistant**; PhD student at Université Grenoble Alpes (Grenoble, France)
+:   **Research and Teaching Assistant (PhD Student)
+    at Université Grenoble Alpes -- Inria (Grenoble, France)**
+    
+    * Led a theoretical and experimental study of resource allocations in bacterium *E. coli*
 
-    Project: *Microbial growth control in changing environments:
-    Theoretical and experimental study of resource allocation in Escherichia coli*
+    * Used Control Theory principles to show that unexpected resource allocation behaviors can be
+    predicted simply by assuming that bacteria optimize growth (published in Plos Comp. Biol.)
 
-*I designed and developed this project that took place in project-team
-[Ibis](https://team.inria.fr/ibis/) (Inria Grenoble -- Rhône-Alpes) and
-team [BIOP](http://www-liphy.ujf-grenoble.fr/Introduction-627) (Laboratoire
-Interdisciplinaire de Physique, Université Grenoble Alpes)
-with the help of my PhD advisors Dr. Hidde de Jong and Pr. Johannes Geiselmann.
-It coupled **theoretical** and **experimental** approaches on the question of resource
-allocation in the bacteria Escherichia coli.
-Using **control theory**, I formulated bacterial growth as an optimisation problem and showed that
-you can make unexpected predictions from the sole principle of growth maximization.
-I experimentally tested these predictions by **building a strain** with fluorescent ribosomes
-and monitoring it in a **microfluidic device**.
-This work was done in collaboration with several experimentalists and control theorists,
-and has produced one publication and several communications in international conferences.*
+    * Engineered and monitored cells with fluorescent ribosomes using microplate reader, microscope and
+    a microfluidic device
 
 Feb.-Jun. 2012
-:   **Research assistant**; Intern at Inria Grenoble -- Rhône-Alpes (Grenoble, France)
-    
-    Project: *Study and development of sensitivity analysis techniques for a complex
-    model of the gene expression machinery in Escherichia coli.*
+:   **Research Assistant (Intern)
+    at Inria (Grenoble, France)**
 
-*I reviewed and implemented state-of-the-art methods of **sensitivity analysis** on
-a complex model of the gene expression machinery in the bacteria Escherichia coli.
-I also developed a brand-new dynamical method of global sensitivy analysis which helped
-to identify the key parameters driving the model dynamics and reduce its complexity.
-This work was supervized by Dr. Delphine Ropers and Dr. Hidde de Jong.*
+    * Reviewed and implemented state-of-the-art methods of sensitivity analysis on a complex
+    model of the gene expression machinery in bacterium *E. coli*
+
+    * Developed a brand-new dynamical method of global sensitivity analysis
+
+    * Helped to identify key parameters driving the model dynamics and reduce its complexity
 
 Feb.-Jun. 2011
-:   **Research assistant**; Intern at University of Cambridge, Department of Applied Mathematics
-and Theoretical Physics (Cambridge, United Kingdom)
+:   **Research Assistant (Intern)
+    at University of Cambridge -- DAMTP (Cambridge, United Kingdom)**
 
-    Project: *Theory for the Evolution of Germ-Soma Differentiation on the Volvocales*
+    * Led a theoretical study on the evolution towards multicellularity on microalgae
 
-*I designed and developed this short project that took place in
-[Goldstein lab](http://www.damtp.cam.ac.uk/user/gold/) under supervision
-of Pr. Raymond E. Goldstein.
-I formulated a **mathematical model** of the extracellular matrix to explore its role
-during the **evolution of microalgae** in changing environments.*
+    * Developed a model of phosphate uptake and growth on Volvocales
+
+    * Explored the role in phosphate storage of the extracellular matrix, especially
+    in changing environments
 
 Jun.-Jul. 2010
-:   **Research assistant**; Intern at École Normale Supérieure (Paris, France)
+:   **Research Assistant (Intern)
+    at École Normale Supérieure (Paris, France)**
 
-    Project: *Dynamical responses of oscillating yeast cells suspensions to periodic forcing.*
+    * Analyzed time-series fluorescence data of oscillating yeast cells suspensions
+    subject to periodic forcing
 
-*I analysed **time-series fluorescence data** using several methods of **signal processing**
-in order to caracterize the presence of chaotic behaviors.
-I also adapted an existing implementation of a mathematical model based on **Hopf bifurcation**.
-This short project has produced one publication.*
+    * Modified an existing mathematical model based on Hopf bifurcation to recreate the observed
+    dynamics
+
+    * Did not identified any chaotic behavior even when an irrational forcing was applied
+    to the cells (published in Journal of Computational Interdisciplinary Sciences)
 
 Teaching experience
 -------------------
@@ -107,17 +100,39 @@ I also helped to design and grad the final exam on this part.*
 Education
 ---------
 
-2012-2017
-:   **PhD, Cell Biology**; Université Grenoble Alpes (Grenoble, France)
+2017
+:   **PhD, Cell Biology** -- Université Grenoble Alpes (Grenoble, France)  
+
+    * Title:  *Microbial growth control in changing environments:
+    Theoretical and experimental study of resource allocation in Escherichia coli*  
+    * Supervisors: *Dr. Hidde de Jong & Pr. Johannes Geiselmann*  
+    * Laboratories: *[Project-team Ibis](https://team.inria.fr/ibis/) (Inria Grenoble -- Rhône-Alpes)
+    and [team BIOP](http://www-liphy.ujf-grenoble.fr/Introduction-627)
+    (Laboratoire Interdisciplinaire de Physique, Université Grenoble Alpes)*  
+
+2012
+:   **MSc, Cell Systems Biology** with honours -- École Normale Supérieure
+    & Université Pierre et Marie Curie (Paris, France)  
+
+    * 2nd year: Gene regulatory networks, cell ecosystems, cell machinery, microscopy (quantification,
+    image processing), graph theory, comparative genomics, population genetics,
+    structural bioinformatics, modelling of biopolymers
+    
+    * 1st year: *In silico* biology, genes and genomes, from gene to function, ecological systems biology,
+    biophysics, biomathematics
+
+2010
+:   **BSc, Life sciences** with honours -- École Normale Supérieure
+    & Université Pierre et Marie Curie (Paris, France)
+
+    * Experimental practice, ecology, physiology, molecular and cellular biology,
+    genetics and epigenetics, bioinformatics, statistics, biomathematics,
+    statistical and optical physics, weak-bond chemistry, modelling in biology
 
 2009-2013
-:   **ENS Diploma**; École Normale Supérieure (Paris, France), *civil servant*
+:   **ENS Diploma** -- École Normale Supérieure (Paris, France)  
 
-2010-2012
-:   **MSc, Cell Systems Biology**; École Normale Supérieure (Paris, France)
-
-2009-2010
-:   **BSc, Life sciences**; École Normale Supérieure (Paris, France)
+    * French leading research school, selected via a national competitive exam  
 
 Publications
 ------------
@@ -136,32 +151,32 @@ Publications
 Technical skills
 ------
 
-** Computer skills **
+###Computing
 
-For the last years, I've been using **Python**, **Git**, and **Unix/shell scripting** daily.
-But I used several langages during my career (**Matlab/Octave**, **R**, **PHP**, **SQL**,
-**HTML/CSS**).
-I'm also curious about more recent langages (**Julia**, **Ruby**, **Rust**) but did not find 
-any big project to make with them yet.
+* Daily user of Python, Git, and Unix/shell scripting.
 
+* Experienced with Matlab/Octave, Scilab, R, PHP, SQL, HTML/CSS.
 
-** Mathematical skills **
+* Curious about Julia, Ruby, Rust
 
-I am proficient into **data analysis** and **modelling**.
-I manipulate **linear and non-linear dynamical systems** daily.
-I have been in touch with **time-series analysis** (signal processing),
-**image analysis**, **sensitivity analysis**, and more recently **Kalman filtering**,
-**variational calculus** and **optimal control theory**.
-I am also educated into several other domains
-(**statistics**, **graph theory**, **molecular modeling**, ...) and curious about machine learning
-(especially deep-learning).
+###Mathematics
 
-** Laboratory skills **
+* Proficient in data analysis and modelling, in particular linear and non-linear dynamical systems.
 
-During my PhD, I learned and applied **general synthetic biology techniques** (**culturing**,
-**cloning**,
-**chromosomic modications**, ...) and had to manipulate myself several instruments
-(**microplate reader**, **microscope**, **microfluidic device**).
+* Familiar with time-series analysis, image analysis, sensitivity analysis.
+More recently Kalman filtering, calculus of variations and optimal control theory.
+
+* Curious of statistics, graph theory, molecular modeling, machine learning (deep-learning).
+
+###Laboratory skills
+
+Molecular biology
+:   Cloning (molecular design, overlap PCR, Gibson assembly),
+    chromosomic modications (electroporation, lambda-red recombineering)
+
+Laboratory Robotics
+:   Microplate reader (Perkin Elmer, Tecan), fluorescence microscope (Zeiss),
+    microfluidic device (Mother machine)
 
 Languages
 ---------
@@ -173,15 +188,16 @@ English
 :   Fluent
 
 Italian
-:   Basics
+:   Basic
+
 
 Extracurricular activities
 --------------------------
 
-I like indoor and outdoor climbing (~ 6B french quotation).
-I'm a regular author on [bioinfo-fr.net](https://bioinfo-fr.net/),
-a communautary french blog intended for young bioinformaticians.
-I'm also an advocate for the open-source and libre cultures.
+* Outdoor and indoor climbings (~ 6A/B outdoor, 6B/C indoor, french quotations)
+* Regular author on [bioinfo-fr.net](https://bioinfo-fr.net),
+    a communautary french blog intended for young bioinformaticians.
+* Advocate for the open-source and libre cultures
 
 ----    
 
