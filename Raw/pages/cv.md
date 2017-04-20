@@ -201,7 +201,18 @@ Extracurricular activities
 
 ----    
 
-> <nils.giordano@normalesup.org>    
+> <script type="text/javascript">
+<!--
+emm='org';
+em='normalesup';
+nn='ano';
+n='giord';
+p='nils';
+document.write('<a class="email" href="mailto:'
+    + p + '.' + n + nn + '+cv@' + em + '.' + emm +'">'+p+'.'+n+nn+'@'+em+'.'+emm+'</a>');
+//-->
+</script>
+<noscript>[Please enable javascript to see my email address]</noscript>  
 > 13112 La Destrousse (France)
 
 ----

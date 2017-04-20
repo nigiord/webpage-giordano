@@ -82,7 +82,7 @@ SOCIAL = (('Github', 'https://github.com/nigiord'),
          )
 INCLUDE_SOCIAL_IN_NAVBAR = True
 
-GITHUB_USER = 'nigiord'
+#GITHUB_USER = 'nigiord'
 DEFAULT_PAGINATION = 10
 LOAD_CONTENT_CACHE = False
 DELETE_OUTPUT_DIRECTORY = True
