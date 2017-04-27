@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Nils Giordano'
 
 SITENAME = "Nils Giordano"
-SITEURL = 'http://www.normalesup.org/~giordano'
+SITEURL = 'https://www.normalesup.org/~giordano'
 TIMEZONE = 'Europe/Paris'
 DEFAULT_LANG = 'en'
 #DEFAULT_CATEGORY = 'Misc'
