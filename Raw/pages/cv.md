@@ -12,9 +12,9 @@ Nils Giordano, PhD
 
 ---
 
-> Computational Biologist with interests in Synthetic Biology and Bioengineering   
-> Fluent in Biology, Computer Sciences and Maths  
-> Love coding and modelling, can hit the bench when necessary
+> Computational Biologist with interests in Evolution, Systems Biology, and Bioengineering   
+> Fluent in Biology, Computer Sciences, and Maths  
+> Love to write smart code, derive beautiful equations, and uncover Life's fundamental laws
 
 ---
 
@@ -24,6 +24,15 @@ Research experience
 Sep. 2012 - Mar. 2017
 :   **Research and Teaching Assistant (PhD Student)
     at Université Grenoble Alpes -- Inria (Grenoble, France)**
+    
+    *Supervisors: 
+    [<i class="fa fa-envelope-o" aria-hidden="true"></i>](mailto:Hidde.de-Jong@inria.fr)
+    Dr. Hidde de Jong
+    ([Project-team Ibis](https://team.inria.fr/ibis/), Inria)
+    & 
+    [<i class="fa fa-envelope-o" aria-hidden="true"></i>](mailto:hans.geiselmann@univ-grenoble-alpes.fr)
+    Pr. Johannes Geiselmann
+    ([team BIOP](http://www-liphy.ujf-grenoble.fr/Introduction-627), LIPhy)*
     
     * Led a theoretical and experimental study of resource allocations in bacterium *E. coli*
 
@@ -37,6 +46,14 @@ Feb.-Jun. 2012
 :   **Research Assistant (Intern)
     at Inria (Grenoble, France)**
 
+    *Supervisors: 
+    [<i class="fa fa-envelope-o" aria-hidden="true"></i>](mailto:Hidde.de-Jong@inria.fr)
+    Dr. Hidde de Jong
+    & 
+    [<i class="fa fa-envelope-o" aria-hidden="true"></i>](mailto:Delphine.Ropers@inria.fr)
+    Dr. Delphine Ropers
+    ([Project-team Ibis](https://team.inria.fr/ibis/), Inria)*
+    
     * Reviewed and implemented state-of-the-art methods of sensitivity analysis on a complex
     model of the gene expression machinery in bacterium *E. coli*
 
@@ -47,6 +64,11 @@ Feb.-Jun. 2012
 Feb.-Jun. 2011
 :   **Research Assistant (Intern)
     at University of Cambridge -- DAMTP (Cambridge, United Kingdom)**
+
+    *Supervisor: 
+    [<i class="fa fa-envelope-o" aria-hidden="true"></i>](mailto:R.E.Goldstein@damtp.cam.ac.uk)
+    Pr. Raymond E. Goldstein
+    ([Goldstein lab](http://www.damtp.cam.ac.uk/user/gold/), University of Cambridge)*
 
     * Led a theoretical study on the evolution towards multicellularity on microalgae
 
@@ -59,14 +81,20 @@ Jun.-Jul. 2010
 :   **Research Assistant (Intern)
     at École Normale Supérieure (Paris, France)**
 
+    *Supervisor:
+    [<i class="fa fa-envelope-o" aria-hidden="true"></i>](mailto:demonte@biologie.ens.fr)
+    Dr. Silvia de Monte
+    ([Eco-evolutionary Mathematics](https://www.biologie.ens.fr/eceem/demonte.html), IBENS)*
+
     * Analyzed time-series fluorescence data of oscillating yeast cells suspensions
     subject to periodic forcing
 
     * Modified an existing mathematical model based on Hopf bifurcation to recreate the observed
     dynamics
 
-    * Did not identified any chaotic behavior even when an irrational forcing was applied
-    to the cells (published in Journal of Computational Interdisciplinary Sciences)
+    * Showed that even when an irrational forcing is applied,
+    the biological system does not exhibit any chaotic behavior
+    (published in Journal of Computational Interdisciplinary Sciences)
 
 Teaching experience
 -------------------
@@ -138,15 +166,23 @@ Publications
 ------------
 
 2016
-:   **Dynamical allocation of cellular resources as an optimal control problem:
+:   <i class="ai ai-open-access"></i>**Dynamical allocation of cellular resources as an optimal control problem:
     Novel insights into microbial growth strategies.**  
     *Giordano N, Mairet F, Gouzé J-L, Geiselmann J, de Jong H.*  
     PLoS Computational Biology. 2016;12(3):e1004802.
+    <a href="http://dx.doi.org/10.1371/journal.pcbi.1004802">
+    <i class="ai ai-doi ai"></i></a>
+    <a href="http://journals.plos.org/ploscompbiol/article/asset?id=10.1371%2Fjournal.pcbi.1004802.PDF">
+    <i class="fa fa-file-pdf-o fa"></i></a> 
 
 2012
-:   **Dynamical responses of oscillating yeast cells suspensions to periodic forcing.**  
+:   <i class="ai ai-open-access"></i>**Dynamical responses of oscillating yeast cells suspensions to periodic forcing.**  
     *Giordano N, D’Ovidio F, Danø S, Sørensen PG, De Monte S.*  
-    Journal of Computational Interdisciplinary Sciences. 2012;3(2):77–86.                                           
+    Journal of Computational Interdisciplinary Sciences. 2012;3(2):77–86.
+    <a href="http://dx.doi.org/10.6062/jcis.2012.03.02.0053">
+    <i class="ai ai-doi ai"></i></a>
+    <a href="http://epacis.net/jcis/PDF_JCIS/JCIS11-art.53.pdf">
+    <i class="fa fa-file-pdf-o fa"></i></a> 
 
 Technical skills
 ------
@@ -196,7 +232,9 @@ Extracurricular activities
 
 * Outdoor and indoor climbings (~ 6A/B outdoor, 6B/C indoor, french quotations)
 * Regular author on [bioinfo-fr.net](https://bioinfo-fr.net),
-    a communautary french blog intended for young bioinformaticians.
+    a communautary French blog intended for young bioinformaticians
+* Member of [RSG France -- JeBIF](https://jebif.fr/fr/),
+    the French society for young bioinformaticians
 * Advocate for the open-source and libre cultures
 
 ----    
@@ -213,6 +251,6 @@ document.write('<a class="email" href="mailto:'
 //-->
 </script>
 <noscript>[Please enable javascript to see my email address]</noscript>  
-> 13112 La Destrousse (France)
+> Marseille (France)
 
 ----
