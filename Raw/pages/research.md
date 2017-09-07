@@ -121,7 +121,7 @@ Rank: 0
             Grenoble, France
         </td>
         <td align='center' width="11%">
-            (coming soon)
+            <a href="pdfs/thesis_manuscript.pdf"><i class="fa fa-file-pdf-o fa-2x"></i></a>
         </td>
     </tr>
 </tbody>

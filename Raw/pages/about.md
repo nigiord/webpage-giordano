@@ -23,7 +23,6 @@ at [Goldstein lab](http://www.damtp.cam.ac.uk/user/gold/)
 My skills are diverse as I developed mathematical models, collected my own data at the bench,
 and carried out the analysis.
 But I look forward for the day robots can do the bench part!
-I am also convinced that we currently need good, simple models more than terrabytes of lousy data.
 
 You can find more information about my background and skills on my [CV](./cv.html).
 Feel free to [contact me](./contact.html) if I look like a good fit for your lab!
