@@ -12,9 +12,9 @@ Nils Giordano, PhD
 
 ---
 
-> Computational Biologist with interests in Evolution, Systems Biology, and Bioengineering   
-> Fluent in Biology, Computer Sciences, and Maths  
-> Love to write smart code, derive beautiful equations, and uncover Life's fundamental laws
+> Computational Systems Biologist with interests in Evolution and Bioengineering   
+> Fluent in Biology, Maths, and Computer Sciences  
+> Love smart code, elegant equations, and Life's fundamental laws
 
 ---
 
@@ -36,11 +36,11 @@ Sep. 2012 - Mar. 2017
     
     * Led a theoretical and experimental study of resource allocations in bacterium *E. coli*
 
-    * Used Control Theory principles to show that unexpected resource allocation behaviors can be
-    predicted simply by assuming that bacteria optimize growth (published in Plos Comp. Biol.)
+    * Used Optimal Control Theory principles to show that unexpected resource allocation behaviors can be
+    predicted by assuming that bacteria optimize growth (published in Plos Comp. Biol.)
 
-    * Engineered and monitored cells with fluorescent ribosomes using microplate reader, microscope and
-    a microfluidic device
+    * Engineered and monitored cells with fluorescent ribosomes using a microplate reader, microscope and
+    microfluidic device
 
 Feb.-Jun. 2012
 :   **Research Assistant (Intern)
@@ -59,7 +59,7 @@ Feb.-Jun. 2012
 
     * Developed a brand-new dynamical method of global sensitivity analysis
 
-    * Helped to identify key parameters driving the model dynamics and reduce its complexity
+    * Helped to identify the key parameters driving the model dynamics and to reduce its complexity
 
 Feb.-Jun. 2011
 :   **Research Assistant (Intern)
@@ -70,11 +70,11 @@ Feb.-Jun. 2011
     Pr. Raymond E. Goldstein
     ([Goldstein lab](http://www.damtp.cam.ac.uk/user/gold/), University of Cambridge)*
 
-    * Led a theoretical study on the evolution towards multicellularity on microalgae
+    * Led a theoretical study about the evolution towards multicellularity in microalgae (Volvocales)
 
-    * Developed a model of phosphate uptake and growth on Volvocales
+    * Developed a general model of phosphate uptake and growth in microalgae
 
-    * Explored the role in phosphate storage of the extracellular matrix, especially
+    * Explored the role of the extracellular matrix for phosphate storage, especially
     in changing environments
 
 Jun.-Jul. 2010
@@ -100,30 +100,29 @@ Teaching experience
 -------------------
 
 Sept. 2013-Aug. 2016
-:   **Teaching assistant**; Université Grenoble Alpes (Grenoble, France), 229H
+:   **Teaching assistant**; Université Grenoble Alpes (Grenoble, France), 229 hours over 3 years
 
-    * **Bioinformatics: from genome analysis to modelling (BSc)**  
+    * **Bioinformatics: from genome analysis to modeling (BSc)**  
 *This introductory course was taught to 2nd-year students in collaboration with
 Dr. Thierry Gautier.
-I was in charge of the part about modelling, which means I was responsible for choosing 
+I was in charge of the part about modeling, which means I was responsible for choosing 
 the content, designing and teaching the lectures, tutorials, and practical exercices,
 but also designing the final exam and grading.*
 
     * **Population genetics, conservation biology, biodiversity and evolution (BSc and MSc)**  
 *These different courses were taught from 2nd-year to 4th-year students.
-I mostly managed tutorials, helped to design final exams and graded.*
+I mostly supervized tutorials and helped to design and grade the final exams.*
 
     * **Procaryotic genetics and microbiology (BSc)**  
 *This course was taught to 2nd-year students.
-I managed tutorials, helped to manage practical exercices at the bench, and graded.*
+I supervized tutorials and practical exercices at the bench.*
 
     * **Modeling and simulation of genetic regulatory networks (MSc)**  
-*This course was taught to 5th-year students outside of my regular teaching service.
+*This course was taught to 5th-year students.
 It was organized for students of École Normale Supérieure, and taught in collaboration
 with Dr. Hidde de Jong.
-I helped to choose the content, teach the lectures and manage the practical exercices
-at the computer.
-I also helped to design and grad the final exam on this part.*
+I helped to choose the content, teach the lectures and supervize the practical exercices.
+I also helped to design and grad the final exam.*
 
 Education
 ---------
@@ -144,7 +143,7 @@ Education
 
     * 2nd year: Gene regulatory networks, cell ecosystems, cell machinery, microscopy (quantification,
     image processing), graph theory, comparative genomics, population genetics,
-    structural bioinformatics, modelling of biopolymers
+    structural bioinformatics, modeling of biopolymers
     
     * 1st year: *In silico* biology, genes and genomes, from gene to function, ecological systems biology,
     biophysics, biomathematics
@@ -155,7 +154,7 @@ Education
 
     * Experimental practice, ecology, physiology, molecular and cellular biology,
     genetics and epigenetics, bioinformatics, statistics, biomathematics,
-    statistical and optical physics, weak-bond chemistry, modelling in biology
+    statistical and optical physics, weak-bond chemistry, modeling in biology
 
 2009-2013
 :   **ENS Diploma** -- École Normale Supérieure (Paris, France)  
@@ -184,8 +183,28 @@ Publications
     <a href="http://epacis.net/jcis/PDF_JCIS/JCIS11-art.53.pdf">
     <i class="fa fa-file-pdf-o fa"></i></a> 
 
+Conferences & Workshops
+-----------------------
+
+2016
+: Presentation in a workshop on Systemic and Symbolic Biology (BIOSS, Lyon, France)
+
+2015
+: Invited for a presentation in a seminar on the Modeling of Life (SeMoVi, Grenoble, France)
+
+2015
+: Selected for a presentation at the Advanced Lecture Course on Computational Systems Biology (CompSysBio, Aussois, France)
+
+2015
+: Participation in the workshop Integrative Cell Models at Lorentz Center (Leiden, The Netherlands)
+
+2014
+: Contribution in the 21st International Symposium on Mathematical Theory of Networks and Systems (MTNS 2014, Groningen, Netherlands)
+    <a href="https://hal.inria.fr/hal-01079299/">
+    <i class="fa fa-file-pdf-o fa"></i></a>
+
 Technical skills
-------
+----------------
 
 ###Computing
 
@@ -197,7 +216,7 @@ Technical skills
 
 ###Mathematics
 
-* Proficient in data analysis and modelling, in particular linear and non-linear dynamical systems.
+* Proficient in data analysis and modeling, in particular linear and non-linear dynamical systems.
 
 * Familiar with time-series analysis, image analysis, sensitivity analysis.
 More recently Kalman filtering, calculus of variations and optimal control theory.
@@ -208,7 +227,7 @@ More recently Kalman filtering, calculus of variations and optimal control theor
 
 Molecular biology
 :   Cloning (molecular design, overlap PCR, Gibson assembly),
-    chromosomic modications (electroporation, lambda-red recombineering)
+    chromosomic modifications (electroporation, lambda-red recombineering)
 
 Laboratory Robotics
 :   Microplate reader (Perkin Elmer, Tecan), fluorescence microscope (Zeiss),
