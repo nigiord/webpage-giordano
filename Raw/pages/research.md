@@ -10,9 +10,18 @@ Rank: 0
 <table class="table table-striped table-hover">
 <tbody>
     <tr>
+        <td>2017</td>
+        <td>
+            <i class="ai ai-open-access"></i><strong>Mathematical Modeling of Microbes:
+            Metabolism, Gene Expression, and Growth</strong><br />
+            de Jong H, Casagranda S, <u>Giordano N</u>, Cinquemani E, Ropers D, Geiselmann J, Gouzé J-L<br />
+            Journal of the Royal Society Interface. <em>In press</em>
+        </td>
+    </tr>
+    <tr>
         <td>2016</td>
         <td>
-            <i class="ai ai-open-access"></i><strong>Dynamical allocation of cellular resources as an optimal control problem: Novel insights into microbial growth strategies.</strong><br />
+            <i class="ai ai-open-access"></i><strong>Dynamical allocation of cellular resources as an optimal control problem: Novel insights into microbial growth strategies</strong><br />
             <u>Giordano N</u>, Mairet F, Gouzé J-L, Geiselmann J, de Jong H.<br />
             PLoS Computational Biology. 2016;12(3):e1004802. <a href="http://dx.doi.org/10.1371/journal.pcbi.1004802"><i class="ai ai-doi ai-2x"></i></a> <a href="http://journals.plos.org/ploscompbiol/article/asset?id=10.1371%2Fjournal.pcbi.1004802.PDF"><i class="fa fa-file-pdf-o fa-2x"></i></a> 
         </td>
