@@ -23,12 +23,12 @@ Research experience
 
 Sep. 2012 - Mar. 2017
 :   **Research and Teaching Assistant (PhD Student)
-    at Université Grenoble Alpes -- Inria (Grenoble, France)**
+    at Université Grenoble Alpes -- INRIA (Grenoble, France)**
     
     *Supervisors: 
     [<i class="fa fa-envelope-o" aria-hidden="true"></i>](mailto:Hidde.de-Jong@inria.fr)
     Dr. Hidde de Jong
-    ([Project-team Ibis](https://team.inria.fr/ibis/), Inria)
+    ([Project-team Ibis](https://team.inria.fr/ibis/), INRIA)
     & 
     [<i class="fa fa-envelope-o" aria-hidden="true"></i>](mailto:hans.geiselmann@univ-grenoble-alpes.fr)
     Pr. Johannes Geiselmann
@@ -44,7 +44,7 @@ Sep. 2012 - Mar. 2017
 
 Feb.-Jun. 2012
 :   **Research Assistant (Intern)
-    at Inria (Grenoble, France)**
+    at INRIA (Grenoble, France)**
 
     *Supervisors: 
     [<i class="fa fa-envelope-o" aria-hidden="true"></i>](mailto:Hidde.de-Jong@inria.fr)
@@ -52,7 +52,7 @@ Feb.-Jun. 2012
     & 
     [<i class="fa fa-envelope-o" aria-hidden="true"></i>](mailto:Delphine.Ropers@inria.fr)
     Dr. Delphine Ropers
-    ([Project-team Ibis](https://team.inria.fr/ibis/), Inria)*
+    ([Project-team Ibis](https://team.inria.fr/ibis/), INRIA)*
     
     * Reviewed and implemented state-of-the-art methods of sensitivity analysis on a complex
     model of the gene expression machinery in bacterium *E. coli*
@@ -100,7 +100,7 @@ Teaching experience
 -------------------
 
 Sept. 2013-Aug. 2016
-:   **Teaching assistant**; Université Grenoble Alpes (Grenoble, France), 229 hours over 3 years
+:   **Teaching assistant**; Université Grenoble Alpes (Grenoble, France), 229 hours
 
     * **Bioinformatics: from genome analysis to modeling (BSc)**  
 *This introductory course was taught to 2nd-year students in collaboration with
@@ -128,12 +128,12 @@ Education
 ---------
 
 2017
-:   **PhD, Cell Biology** -- Université Grenoble Alpes (Grenoble, France)  
+:   **PhD, Systems Biology** -- Université Grenoble Alpes (Grenoble, France)  
 
     * Title:  *Microbial growth control in changing environments:
     Theoretical and experimental study of resource allocation in Escherichia coli*  
     * Supervisors: *Dr. Hidde de Jong & Pr. Johannes Geiselmann*  
-    * Laboratories: *[Project-team Ibis](https://team.inria.fr/ibis/) (Inria Grenoble -- Rhône-Alpes)
+    * Laboratories: *[Project-team Ibis](https://team.inria.fr/ibis/) (INRIA Grenoble -- Rhône-Alpes)
     and [team BIOP](http://www-liphy.ujf-grenoble.fr/Introduction-627)
     (Laboratoire Interdisciplinaire de Physique, Université Grenoble Alpes)*  
 
@@ -163,6 +163,12 @@ Education
 
 Publications
 ------------
+
+2017
+:   <i class="ai ai-open-access"></i>**Mathematical Modeling of Microbes:
+    Metabolism, Gene Expression, and Growth**  
+    *de Jong H, Casagranda S, Giordano N, Cinquemani E, Ropers D, Geiselmann J, Gouzé J-L*  
+    Journal of the Royal Society Interface. <em>In press</em>
 
 2016
 :   <i class="ai ai-open-access"></i>**Dynamical allocation of cellular resources as an optimal control problem:
@@ -250,7 +256,7 @@ Extracurricular activities
 --------------------------
 
 * Outdoor and indoor climbings (~ 6A/B outdoor, 6B/C indoor, french quotations)
-* Regular author on [bioinfo-fr.net](https://bioinfo-fr.net),
+* Contributor on [bioinfo-fr.net](https://bioinfo-fr.net),
     a communautary French blog intended for young bioinformaticians
 * Member of [RSG France -- JeBIF](https://jebif.fr/fr/),
     the French society for young bioinformaticians
