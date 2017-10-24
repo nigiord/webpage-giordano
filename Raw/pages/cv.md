@@ -257,7 +257,7 @@ Extracurricular activities
 
 * Outdoor and indoor climbings (~ 6A/B outdoor, 6B/C indoor, french quotations)
 * Contributor on [bioinfo-fr.net](https://bioinfo-fr.net),
-    a communautary French blog intended for young bioinformaticians
+    a communautary French blog for bioinformaticians
 * Member of [RSG France -- JeBIF](https://jebif.fr/fr/),
     the French society for young bioinformaticians
 * Advocate for the open-source and libre cultures
