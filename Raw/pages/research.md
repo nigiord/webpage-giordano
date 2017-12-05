@@ -15,7 +15,7 @@ Rank: 0
             <i class="ai ai-open-access"></i><strong>Mathematical Modeling of Microbes:
             Metabolism, Gene Expression, and Growth</strong><br />
             de Jong H, Casagranda S, <u>Giordano N</u>, Cinquemani E, Ropers D, Geiselmann J, Gouzé J-L<br />
-            Journal of the Royal Society Interface. <em>In press</em>
+            Journal of The Royal Society Interface. 14.136 (2017): 20170502. <a href="http://dx.doi.org/10.1098/rsif.2017.0502"><i class="ai ai-doi ai-2x"></i></a> <a href="http://rsif.royalsocietypublishing.org/content/14/136/20170502#aHR0cDovL3JzaWYucm95YWxzb2NpZXR5cHVibGlzaGluZy5vcmcvY29udGVudC9yb3lpbnRlcmZhY2UvMTQvMTM2LzIwMTcwNTAyLmZ1bGwucGRmQEBAMA=="><i class="fa fa-file-pdf-o fa-2x"></i></a> 
         </td>
     </tr>
     <tr>
