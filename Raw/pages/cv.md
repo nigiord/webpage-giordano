@@ -12,7 +12,7 @@ Nils Giordano, PhD
 
 ---
 
-> Computational Systems Biologist with interests in Evolution and Bioengineering   
+> Computational Systems Biologist with interest in the evolution of microbial communities     
 > Fluent in Biology, Maths, and Computer Sciences  
 > Love smart code, elegant equations, and Life's fundamental laws
 
@@ -20,6 +20,21 @@ Nils Giordano, PhD
 
 Research experience
 -------------------
+
+Jan. 2018 - Jul. 2019
+:   **Postdoctoral Researcher
+    at LS2N CNRS UMR 6004 (Nantes, France)**
+    
+    *Close collaborators: 
+    [<i class="fa fa-envelope-o" aria-hidden="true"></i>](mailto:Samuel.Chaffron@ls2n.fr)
+    Dr. Samuel Chaffron
+    ([Computational Biology team](https://www.ls2n.fr/equipe/combi/), LS2N, CNRS)
+    & 
+    [<i class="fa fa-envelope-o" aria-hidden="true"></i>](mailto:damien.eveillard@univ-nantes.fr)
+    Dr. Damien Eveillard
+    ([Computation Biology team](https://www.ls2n.fr/equipe/combi/), LS2N, Université de Nantes)*
+    
+    * Project: From Environmental Omics to Eco-Systems Metabolic Modeling of Microbial Communities 
 
 Sep. 2012 - Mar. 2017
 :   **Research and Teaching Assistant (PhD Student)
