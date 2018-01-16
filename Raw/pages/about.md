@@ -5,8 +5,8 @@ Lang: en
 Slug: about
 Status: hidden
 
-I am a freshly graduated computational biologist looking for
-a postdoctoral position in Evolution, Systems Biology, or Bioengineering.
+I am currently a Postdoc at Laboratoire des Sciences du Numérique de Nantes (LS2N, CNRS UMR 6004)
+working on eco-systems metabolic modeling of microbial communities using Tara Oceans data.
 
 During my PhD thesis, I have worked on the fundamental laws governing microbial
 life in dynamical environments using Control Theory and Synthetic Biology
@@ -20,6 +20,6 @@ at [Goldstein lab](http://www.damtp.cam.ac.uk/user/gold/)
 [Silvia de Monte](http://www.biologie.ens.fr/eceem/demonte.html)
 (Ecole Normale Supérieure, FR).
 
-My skills are diverse as I used to develop mathematical models, collect my own data at the bench,
-and carry out the analysis.
-Feel free to [contact me](./contact.html) if I look like a good fit for your lab!
+I am mostly a Data and Modeling Scientist, but I also happened to spend a substantial amount
+of time at the bench during my PhD Thesis.
+Feel free to [contact me](./contact.html) if you think we share common research interests.

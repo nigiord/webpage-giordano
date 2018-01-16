@@ -43,6 +43,17 @@ Rank: 0
 <table class="table table-striped table-hover">
 <tbody>
     <tr>
+        <td align='center'>Jan. 2018</td>
+        <td>
+            Participation in the Tara Oceans Polar Circle meeting
+        </td>
+        <td align='center'>
+            Paris, France
+        </td>
+        <td align='center'>
+        </td>
+    </tr>
+    <tr>
         <td align='center'>Mar. 2017</td>
         <td>
             PhD Thesis Defense
