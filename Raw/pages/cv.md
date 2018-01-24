@@ -18,6 +18,36 @@ Nils Giordano, PhD
 
 ---
 
+Technical skills
+----------------
+
+###Computing
+
+* Daily user of Python, Git, and Unix/shell scripting.
+
+* Experienced with Matlab/Octave, Scilab, R, PHP, SQL, HTML/CSS.
+
+* Curious about Julia, Ruby, Rust
+
+###Mathematics
+
+* Proficient in data analysis and modeling, in particular linear and non-linear dynamical systems.
+
+* Familiar with time-series analysis, image analysis, sensitivity analysis.
+More recently Kalman filtering, calculus of variations and optimal control theory.
+
+* Curious of statistics, graph theory, molecular modeling, machine learning (deep-learning).
+
+###Laboratory skills
+
+Molecular biology
+:   Cloning (molecular design, overlap PCR, Gibson assembly),
+    chromosomic modifications (electroporation, lambda-red recombineering)
+
+Laboratory Robotics
+:   Microplate reader (Perkin Elmer, Tecan), fluorescence microscope (Zeiss),
+    microfluidic device (Mother machine)
+
 Research experience
 -------------------
 
@@ -228,36 +258,6 @@ Conferences & Workshops
 : Contribution in the 21st International Symposium on Mathematical Theory of Networks and Systems (MTNS 2014, Groningen, Netherlands)
     <a href="https://hal.inria.fr/hal-01079299/">
     <i class="fa fa-file-pdf-o fa"></i></a>
-
-Technical skills
-----------------
-
-###Computing
-
-* Daily user of Python, Git, and Unix/shell scripting.
-
-* Experienced with Matlab/Octave, Scilab, R, PHP, SQL, HTML/CSS.
-
-* Curious about Julia, Ruby, Rust
-
-###Mathematics
-
-* Proficient in data analysis and modeling, in particular linear and non-linear dynamical systems.
-
-* Familiar with time-series analysis, image analysis, sensitivity analysis.
-More recently Kalman filtering, calculus of variations and optimal control theory.
-
-* Curious of statistics, graph theory, molecular modeling, machine learning (deep-learning).
-
-###Laboratory skills
-
-Molecular biology
-:   Cloning (molecular design, overlap PCR, Gibson assembly),
-    chromosomic modifications (electroporation, lambda-red recombineering)
-
-Laboratory Robotics
-:   Microplate reader (Perkin Elmer, Tecan), fluorescence microscope (Zeiss),
-    microfluidic device (Mother machine)
 
 Languages
 ---------
