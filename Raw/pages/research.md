@@ -142,6 +142,7 @@ Rank: 0
         </td>
         <td align='center' width="11%">
             <a href="pdfs/thesis_manuscript.pdf"><i class="fa fa-file-pdf-o fa-2x"></i></a>
+            <a href="https://tel.archives-ouvertes.fr/tel-01685626"><i class="ai ai-doi ai-2x"></i></a>
         </td>
     </tr>
 </tbody>
