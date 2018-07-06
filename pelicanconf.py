@@ -10,8 +10,8 @@ TIMEZONE = 'Europe/Paris'
 DEFAULT_LANG = 'en'
 #DEFAULT_CATEGORY = 'Misc'
 
-PATH = '../Raw'
-OUTPUT_PATH = '../WWW'
+PATH = 'Raw'
+OUTPUT_PATH = 'WWW'
 STATIC_PATHS = ['extra', 'images', 'pdfs']
 
 EXTRA_PATH_METADATA = {
@@ -22,7 +22,7 @@ EXTRA_PATH_METADATA = {
 }
 RELATIVE_URLS = True
 
-PLUGIN_PATHS = ['./plugins']
+PLUGIN_PATHS = ['plugins']
 PLUGINS = ['i18n_subsites',
            'pelican_resume',
            'pelican-bootstrapify']
@@ -47,7 +47,7 @@ RESUME_SRC = 'pages/cv.md'
 RESUME_PDF = 'pdfs/cv_giordano.pdf'
 
 # Theme configuration
-THEME = '../../pelican-themes/pelican-bootstrap3'
+THEME = '../pelican-themes/pelican-bootstrap3'
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 I18N_SUBSITES = {'fr': {}}
 BOOTSTRAP_THEME = 'spacelab'
