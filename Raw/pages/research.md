@@ -12,7 +12,7 @@ Rank: 0
     <tr>
         <td>2017</td>
         <td>
-            <i class="ai ai-open-access"></i><strong>Mathematical Modeling of Microbes:
+            <strong>Mathematical Modeling of Microbes:
             Metabolism, Gene Expression, and Growth</strong><br />
             de Jong H, Casagranda S, <u>Giordano N</u>, Cinquemani E, Ropers D, Geiselmann J, Gouzé J-L<br />
             Journal of The Royal Society Interface. 14.136 (2017): 20170502. <a href="http://dx.doi.org/10.1098/rsif.2017.0502"><i class="ai ai-doi ai-2x"></i></a> <a href="http://rsif.royalsocietypublishing.org/content/14/136/20170502#aHR0cDovL3JzaWYucm95YWxzb2NpZXR5cHVibGlzaGluZy5vcmcvY29udGVudC9yb3lpbnRlcmZhY2UvMTQvMTM2LzIwMTcwNTAyLmZ1bGwucGRmQEBAMA=="><i class="fa fa-file-pdf-o fa-2x"></i></a> 
@@ -43,6 +43,41 @@ Rank: 0
 <table class="table table-striped table-hover">
 <tbody>
     <tr>
+        <td align='center'>Oct. 2018</td>
+        <td>
+            Presentation at the International Conference on Ecological Sciences (<a href="https://sfecologie2018.sciencesconf.org/">SFEcologie 2018</a>)
+        </td>
+        <td align='center'>
+            Rennes, France
+        </td>
+        <td align='center'>
+        (soon)
+        </td>
+    </tr>
+    <tr>
+        <td align='center'>Jul. 2018</td>
+        <td>
+            Presentation in a workshop on Systemic and Symbolic Biology (<a href="http://bioss-cnrs.fr/manif/jnbioss_201807/jnbioss201807.html">BIOSS, 4th edition</a>)
+        </td>
+        <td align='center'>
+            Marseille, France
+        </td>
+        <td align='center'>
+        (soon)
+        </td>
+    </tr>
+    <tr>
+        <td align='center'>Mar. 2018</td>
+        <td>
+            Participation in a workshop on machine-learning for statistic and stochastic models (<a href="https://perso.crans.org/%7Egenest/asstabio.html">ASSTABIO</a>)
+        </td>
+        <td align='center'>
+            Rennes, France
+        </td>
+        <td align='center'>
+        </td>
+    </tr>
+    <tr>
         <td align='center'>Jan. 2018</td>
         <td>
             Participation in the Tara Oceans Polar Circle meeting
@@ -68,7 +103,7 @@ Rank: 0
     <tr>
         <td align='center'>Jul. 2016</td>
         <td>
-            Presentation in a workshop on Systemic and Symbolic Biology (BIOSS)
+            Presentation in a workshop on Systemic and Symbolic Biology (BIOSS, 2nd edition)
         </td>
         <td align='center'>
             Lyon, France
