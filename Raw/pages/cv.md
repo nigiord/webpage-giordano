@@ -12,46 +12,19 @@ Nils Giordano, PhD
 
 ---
 
-> Computational Systems Biologist with interest in the evolution of microbial communities     
+> **Computational Systems Biologist**  
+> *Microbial communities* -- *Metabolic Modeling* -- *Data Science* -- *Metagenomics*
+
 > Fluent in Biology, Maths, and Computer Sciences  
 > Love smart code, elegant equations, and Life's fundamental laws
 
 ---
 
-Technical skills
-----------------
-
-###Computing
-
-* Daily user of Python, Git, and Unix/shell scripting.
-
-* Experienced with Matlab/Octave, Scilab, R, PHP, SQL, HTML/CSS.
-
-* Curious about Julia, Ruby, Rust
-
-###Mathematics
-
-* Proficient in data analysis and modeling, in particular linear and non-linear dynamical systems.
-
-* Familiar with time-series analysis, image analysis, sensitivity analysis.
-More recently Kalman filtering, calculus of variations and optimal control theory.
-
-* Curious of statistics, graph theory, molecular modeling, machine learning (deep-learning).
-
-###Laboratory skills
-
-Molecular biology
-:   Cloning (molecular design, overlap PCR, Gibson assembly),
-    chromosomic modifications (electroporation, lambda-red recombineering)
-
-Laboratory Robotics
-:   Microplate reader (Perkin Elmer, Tecan), fluorescence microscope (Zeiss),
-    microfluidic device (Mother machine)
 
 Research experience
 -------------------
 
-Jan. 2018 - Jul. 2019
+Jan. 2018 - present
 :   **Postdoctoral Researcher
     at LS2N CNRS UMR 6004 (Nantes, France)**
     
@@ -158,7 +131,7 @@ but also designing the final exam and grading.*
 *These different courses were taught from 2nd-year to 4th-year students.
 I mostly supervized tutorials and helped to design and grade the final exams.*
 
-    * **Procaryotic genetics and microbiology (BSc)**  
+    * **Prokaryotic genetics and microbiology (BSc)**  
 *This course was taught to 2nd-year students.
 I supervized tutorials and practical exercices at the bench.*
 
@@ -210,7 +183,7 @@ Publications
 ------------
 
 2017
-:   <i class="ai ai-open-access"></i>**Mathematical Modeling of Microbes:
+:   **Mathematical Modeling of Microbes:
     Metabolism, Gene Expression, and Growth**  
     *de Jong H, Casagranda S, Giordano N, Cinquemani E, Ropers D, Geiselmann J, Gouzé J-L*  
     Journal of The Royal Society Interface. 14.136 (2017): 20170502.
@@ -239,25 +212,40 @@ Publications
     <a href="http://epacis.net/jcis/PDF_JCIS/JCIS11-art.53.pdf">
     <i class="fa fa-file-pdf-o fa"></i></a> 
 
-Conferences & Workshops
------------------------
 
-2016
-: Presentation in a workshop on Systemic and Symbolic Biology (BIOSS, Lyon, France)
+Technical skills
+----------------
 
-2015
-: Invited for a presentation in a seminar on the Modeling of Life (SeMoVi, Grenoble, France)
+###Computing
 
-2015
-: Selected for a presentation at the Advanced Lecture Course on Computational Systems Biology (CompSysBio, Aussois, France)
+* Daily user of Python, Git, and Unix/shell scripting.
 
-2015
-: Participation in the workshop Integrative Cell Models at Lorentz Center (Leiden, The Netherlands)
+* Experienced with Matlab/Octave, Scilab, R, PHP, SQL, HTML/CSS.
 
-2014
-: Contribution in the 21st International Symposium on Mathematical Theory of Networks and Systems (MTNS 2014, Groningen, Netherlands)
-    <a href="https://hal.inria.fr/hal-01079299/">
-    <i class="fa fa-file-pdf-o fa"></i></a>
+* Curious about Julia, Ruby, Rust
+
+###Mathematics
+
+* Proficient in data analysis and modeling, in particular linear and non-linear dynamical systems.
+
+* Familiar with time-series analysis, image analysis, sensitivity analysis.
+More recently Kalman filtering, calculus of variations and optimal control theory.
+
+* Curious of statistics, graph theory, molecular modeling, machine learning (deep-learning).
+
+###Biology
+
+Bioinformatics
+:   Metagenomics, next-generation sequencing
+
+Molecular biology
+:   Cloning (molecular design, overlap PCR, Gibson assembly),
+    chromosomic modifications (electroporation, lambda-red recombineering)
+
+Laboratory Robotics
+:   Microplate reader (Perkin Elmer, Tecan), fluorescence microscope (Zeiss),
+    microfluidic device (Mother machine)
+
 
 Languages
 ---------
