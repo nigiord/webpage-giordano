@@ -7,6 +7,8 @@ Rank: 0
 
 ##Publications
 
+You can also find my Google Scholar account in the navigation bar (top right corner).
+
 <table class="table table-striped table-hover">
 <tbody>
     <tr>
@@ -40,8 +42,22 @@ Rank: 0
 
 ##Talks and Workshops
 
+Some scientific meetings where I have been or plan to be.
+
 <table class="table table-striped table-hover">
 <tbody>
+	<tr>
+        <td align='center'>Jul. 2019</td>
+        <td>
+            Poster at the Journées Ouvertes Biologie, Informatique & Mathématiques (<a href="https://jobim2019.sciencesconf.org/">JOBIM 2019</a>)
+        </td>
+        <td align='center'>
+            Nantes, France
+        </td>
+        <td align='center'>
+        
+        </td>
+    </tr>
     <tr>
         <td align='center'>Oct. 2018</td>
         <td>
@@ -51,7 +67,7 @@ Rank: 0
             Rennes, France
         </td>
         <td align='center'>
-        (soon)
+        
         </td>
     </tr>
     <tr>
@@ -63,7 +79,7 @@ Rank: 0
             Marseille, France
         </td>
         <td align='center'>
-        (soon)
+        
         </td>
     </tr>
     <tr>
@@ -163,6 +179,19 @@ Rank: 0
 </tbody>
 </table>
 
+##Other activities
+
+<table class="table">
+<tbody>
+    <tr>
+        <td align='center' width="8%">2018</td>
+        <td align='left' width="65%">
+            Reviewer for European Control Conference 2019 (<a href="https://ecc19.eu/">ECC19</a>)
+        </td>
+    </tr>
+</tbody>
+</table>
+
 ##Thesis and reports
 
 <table class="table">
@@ -171,9 +200,6 @@ Rank: 0
         <td align='center' width="8%">Mar. 2017</td>
         <td align='left' width="65%">
             PhD Thesis manuscript
-        </td>
-        <td align='center' width="16%">
-            Grenoble, France
         </td>
         <td align='center' width="11%">
             <a href="pdfs/thesis_manuscript.pdf"><i class="fa fa-file-pdf-o fa-2x"></i></a>

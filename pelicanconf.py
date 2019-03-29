@@ -70,9 +70,12 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-#LINKS = (('Inria project-team Ibis', 'https://team.inria.fr/ibis'),
-#         ('Dynamic Ecology', 'https://dynamicecology.wordpress.com'),
-#         ('(fr) Bioinfo-fr', 'https://bioinfo-fr.net'),)
+LINKS = (
+    ('ComBi team', 'https://www.ls2n.fr/equipe/combi/'),
+    ('PeerCommunityIn', 'https://peercommunityin.org/'),
+    ('Dynamic Ecology', 'https://dynamicecology.wordpress.com'),
+    ('(fr) Bioinfo-fr', 'https://bioinfo-fr.net'),
+)
 
 # Social widget
 SOCIAL = (('Github', 'https://github.com/nigiord'),
