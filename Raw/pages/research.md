@@ -67,7 +67,6 @@ Some scientific meetings where I have been or plan to be.
             Rennes, France
         </td>
         <td align='center'>
-        
         </td>
     </tr>
     <tr>
@@ -79,7 +78,6 @@ Some scientific meetings where I have been or plan to be.
             Marseille, France
         </td>
         <td align='center'>
-        
         </td>
     </tr>
     <tr>
