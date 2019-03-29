@@ -38,6 +38,8 @@ MARKDOWN = {
 }
 RESPONSIVE_IMAGES = True
 HIDE_SIDEBAR = True
+#AVATAR = 'extra/avatar_pro.jpg'
+AVATAR = False
 #BANNER = 'extra/kastarpowa.gif'
 BANNER_ALL_PAGES = True
 BANNER_ONLY = True
@@ -68,6 +70,7 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+
 
 # Blogroll
 LINKS = (
