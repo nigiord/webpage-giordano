@@ -70,6 +70,17 @@ Some scientific meetings where I have been or plan to be.
         </td>
     </tr>
     <tr>
+        <td align='center'>Sep. 2018</td>
+        <td>
+            Present at the Tara Oceans GO-SEE kick-off meeting
+        </td>
+        <td align='center'>
+            Paris, France
+        </td>
+        <td align='center'>
+        </td>
+    </tr>
+    <tr>
         <td align='center'>Jul. 2018</td>
         <td>
             Presentation in a workshop on Systemic and Symbolic Biology (<a href="http://bioss-cnrs.fr/manif/jnbioss_201807/jnbioss201807.html">BIOSS, 4th edition</a>)

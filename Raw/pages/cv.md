@@ -284,6 +284,6 @@ document.write('<a class="email" href="mailto:'
 //-->
 </script>
 <noscript>[Please enable javascript to see my email address]</noscript>  
-> Marseille (France)
+> Nantes (France)
 
 ----
