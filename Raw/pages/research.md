@@ -7,7 +7,7 @@ Rank: 0
 
 ##Publications
 
-You can also find my Google Scholar account in the navigation bar (top right corner).
+You can also find my Google Scholar account [here](https://scholar.google.fr/citations?user=r4wI-i4AAAAJ).
 
 <table class="table table-striped table-hover">
 <tbody>
@@ -45,144 +45,134 @@ You can also find my Google Scholar account in the navigation bar (top right cor
 Some scientific meetings where I have been or plan to be.
 
 <table class="table table-striped table-hover">
+<thead>
+    <tr>
+        <td align='center'>Date</td>
+        <td align='center'>Location</td>
+        <td>Event</td>
+        <td>Contribution</td>
+    </tr>
+</thead>
 <tbody>
-	<tr>
-        <td align='center'>Jul. 2019</td>
+    <tr>
+        <td align='center'>Oct. 2019</td>
+        <td align='center'>La Rochelle, France</td>
+        <td>Workshop on Environmental Genomics (<a href="https://apps.univ-lr.fr/cgi-bin/WebObjects/Colloque.woa/1/wa/colloque?code=2401&lang=en">GDR-GE, 5th edition</a>)
+        </td>
+        <td>Presentation</td>
+    </tr>
+    <tr>
+        <td align='center'>Oct. 2019</td>
+        <td align='center'>Paris, France</td>
         <td>
-            Poster at the Journées Ouvertes Biologie, Informatique & Mathématiques (<a href="https://jobim2019.sciencesconf.org/">JOBIM 2019</a>)
+        Workshop Recent Computational Advances in Metagenomics (<a href="http://maiage.jouy.inra.fr/?q=fr/rcam2019">RCAM'19</a>)
         </td>
-        <td align='center'>
-            Nantes, France
+        <td></td>
+    </tr>
+    <tr>
+        <td align='center'>Jul. 2019</td>
+        <td align='center'>Nantes, France</td>
+        <td>
+        Journées Ouvertes Biologie, Informatique & Mathématiques (<a href="https://jobim2019.sciencesconf.org/">JOBIM 2019</a>, Omics Dark Matter session)
         </td>
-        <td align='center'>
-        
-        </td>
+        <td>Presentation and Poster</td>
     </tr>
     <tr>
         <td align='center'>Oct. 2018</td>
+        <td align='center'>Rennes, France</td>
         <td>
-            Presentation at the International Conference on Ecological Sciences (<a href="https://sfecologie2018.sciencesconf.org/">SFEcologie 2018</a>)
+        International Conference on Ecological Sciences (<a href="https://sfecologie2018.sciencesconf.org/">SFEcologie 2018</a>)
         </td>
-        <td align='center'>
-            Rennes, France
-        </td>
-        <td align='center'>
-        </td>
+        <td>Presentation</td>
     </tr>
     <tr>
         <td align='center'>Sep. 2018</td>
+        <td align='center'>Paris, France</td>
         <td>
-            Present at the Tara Oceans GO-SEE kick-off meeting
+        Tara Oceans GO-SEE kick-off meeting
         </td>
-        <td align='center'>
-            Paris, France
-        </td>
-        <td align='center'>
-        </td>
+        <td></td>
     </tr>
     <tr>
         <td align='center'>Jul. 2018</td>
+        <td align='center'>Marseille, France</td>
         <td>
-            Presentation in a workshop on Systemic and Symbolic Biology (<a href="http://bioss-cnrs.fr/manif/jnbioss_201807/jnbioss201807.html">BIOSS, 4th edition</a>)
+        Workshop on Systemic and Symbolic Biology (<a href="http://bioss-cnrs.fr/manif/jnbioss_201807/jnbioss201807.html">BIOSS, 4th edition</a>)
         </td>
-        <td align='center'>
-            Marseille, France
-        </td>
-        <td align='center'>
-        </td>
+        <td>Presentation</td>
     </tr>
     <tr>
         <td align='center'>Mar. 2018</td>
+        <td align='center'>Rennes, France</td>
         <td>
-            Participation in a workshop on machine-learning for statistic and stochastic models (<a href="https://perso.crans.org/%7Egenest/asstabio.html">ASSTABIO</a>)
+        Workshop on Machine-learning for Statistic and Stochastic Models (<a href="https://perso.crans.org/%7Egenest/asstabio.html">ASSTABIO</a>)
         </td>
-        <td align='center'>
-            Rennes, France
-        </td>
-        <td align='center'>
-        </td>
+        <td></td>
     </tr>
     <tr>
         <td align='center'>Jan. 2018</td>
+        <td align='center'>Paris, France</td>
         <td>
-            Participation in the Tara Oceans Polar Circle meeting
+        Tara Oceans Polar Circle meeting
         </td>
-        <td align='center'>
-            Paris, France
-        </td>
-        <td align='center'>
-        </td>
+        <td></td>
     </tr>
     <tr>
         <td align='center'>Mar. 2017</td>
+        <td align='center'>Grenoble, France</td>
         <td>
-            PhD Thesis Defense
+        PhD Thesis Defense
         </td>
-        <td align='center'>
-            Grenoble, France
-        </td>
-        <td align='center'>
-            <a href="pdfs/thesis_defense.pdf"><i class="fa fa-file-pdf-o fa-2x"></i></a> 
-        </td>
+        <td><a href="pdfs/thesis_defense.pdf">Presentation <i class="fa fa-file-pdf-o fa-2x"></i></a></td>
     </tr>
     <tr>
         <td align='center'>Jul. 2016</td>
+        <td align='center'>Lyon, France</td>
         <td>
-            Presentation in a workshop on Systemic and Symbolic Biology (BIOSS, 2nd edition)
+        Workshop on Systemic and Symbolic Biology (BIOSS, 2nd edition)
         </td>
-        <td align='center'>
-            Lyon, France
-        </td>
-        <td align='center'>
-            <a href="pdfs/bioss_2016.pdf"><i class="fa fa-file-pdf-o fa-2x"></i></a> 
+        <td>
+            <a href="pdfs/bioss_2016.pdf">Presentation <i class="fa fa-file-pdf-o fa-2x"></i></a> 
         </td>
     </tr>
     <tr>
         <td align='center'>Oct. 2015</td>
+        <td align='center'>Grenoble, France</td>
         <td>
-            Presentation in a seminar on the Modeling of Life (SeMoVi)
+            Seminar on the Modeling of Life (SeMoVi)
         </td>
-        <td align='center'>
-            Grenoble, France
-        </td>
-        <td align='center'>
-            <a href="pdfs/semovi_2015.pdf"><i class="fa fa-file-pdf-o fa-2x"></i></a> 
+
+        <td>
+            <a href="pdfs/semovi_2015.pdf">Presentation <i class="fa fa-file-pdf-o fa-2x"></i></a> 
         </td>
     </tr>
     <tr>
         <td align='center'>Apr. 2015</td>
+        <td align='center'>Aussois, France</td>
         <td>
-            Presentation at the Advanced Lecture Course on Computational System Biology (CompSysBio)
+            Advanced Lecture Course on Computational System Biology (CompSysBio)
         </td>
-        <td align='center'>
-            Aussois, France
-        </td>
-        <td align='center'>
-            <a href="pdfs/compsysbio_2015.pdf"><i class="fa fa-file-pdf-o fa-2x"></i></a>
-            and <a href="pdfs/compsysbio_poster_2015.pdf"><i class="fa fa-file-pdf-o fa-2x"></i></a>
+
+        <td>
+            <a href="pdfs/compsysbio_2015.pdf">Presentation <i class="fa fa-file-pdf-o fa-2x"></i></a> and <a href="pdfs/compsysbio_poster_2015.pdf">Poster <i class="fa fa-file-pdf-o fa-2x"></i></a>
         </td>
     </tr>
     <tr>
         <td align='center'>Mar. 2015</td>
+        <td align='center'>Leiden, The Netherlands</td>
         <td>
-            Participation in the workshop Integrative Cell Models at Lorentz Center
+            Workshop Integrative Cell Models at Lorentz Center
         </td>
-        <td align='center'>
-            Leiden, The Netherlands
-        </td>
-        <td align='center'>
-        </td>
+        <td></td>
     </tr>
     <tr>
         <td align='center'>Jul. 2014</td>
+        <td align='center'>Groningen, The Netherlands</td>
         <td>
-            Contribution at the International Symposium on Mathematical Theory of Networks and Systems (MTNS)
+            International Symposium on Mathematical Theory of Networks and Systems (MTNS)
         </td>
-        <td align='center'>
-            Groningen, The Netherlands
-        </td>
-        <td align='center'>
-            <a href="https://hal.inria.fr/hal-01079299/"><i class="fa fa-file-pdf-o fa-2x"></i></a>
+        <td>
+            <a href="https://hal.inria.fr/hal-01079299/">Extended abstract <i class="fa fa-file-pdf-o fa-2x"></i></a>
         </td>
     </tr>
 </tbody>
