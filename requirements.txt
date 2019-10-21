@@ -4,7 +4,7 @@ blinker==1.4
 certifi==2017.4.17
 cffi==1.10.0
 chardet==3.0.4
-cryptography==2.0
+cryptography==2.3
 cssmin==0.2.0
 cssprefixer==1.4.1
 cssutils==1.0.2
