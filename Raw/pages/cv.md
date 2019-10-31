@@ -13,40 +13,53 @@ Nils Giordano, PhD
 ---
 
 > **Computational Systems Biologist**  
-> *Microbial communities* -- *Metabolic Modeling* -- *Data Science* -- *Metagenomics*
+> *Microbial communities* -- *Metabolic Modeling* -- *Data Science* -- *Metaomics*
 
-> Fluent in Biology, Maths, and Computer Sciences  
-> Love smart code, elegant equations, and Life's fundamental laws
+> Fluent in Biology, Maths, and Computer Sciences
 
 ---
 
+Skills
+----------------
+
+Bioinformatics
+:   scripting (Python/Bash/Julia/R), versionning (Git), pipeline (Snakemake/Nextflow), metagenomics/metatranscriptomics (Illumina), genome binning and annotation
+
+Biomathematics
+:   graph analysis, optimal control, optimization, modeling, linear/non-linear dynamical systems, time-series analysis (Kalman filtering/smoothing), image analysis (segmentation/tracking), sensitivity analysis
+
+Lab skills/Microbiology
+:   cloning (molecular design, overlap PCR, Gibson assembly), chromosomic modifications (electroporation, lambda-red recombineering), microplate reader, fluorescence microscope, microfluidic
+
+Languages
+:   French (native), English (fluent), Italian (basic)
 
 Research experience
 -------------------
 
-Jan. 2018 - present
+Jan. 2018 - Dec. 2019
 :   **Postdoctoral Researcher
-    at LS2N CNRS UMR 6004 (Nantes, France)**
+    at Université de Nantes (Nantes, France)**
     
-    *Close collaborators: 
+    *Mentor: 
     [<i class="fa fa-envelope-o" aria-hidden="true"></i>](mailto:Samuel.Chaffron@ls2n.fr)
     Dr. Samuel Chaffron
-    ([Computational Biology team](https://www.ls2n.fr/equipe/combi/), LS2N, CNRS)
-    & 
-    [<i class="fa fa-envelope-o" aria-hidden="true"></i>](mailto:damien.eveillard@univ-nantes.fr)
-    Dr. Damien Eveillard
-    ([Computation Biology team](https://www.ls2n.fr/equipe/combi/), LS2N, Université de Nantes)*
+    ([COMBI team](https://www.ls2n.fr/equipe/combi/), LS2N, CNRS)*
     
-    * Project: From Environmental Omics to Eco-Systems Metabolic Modeling of Microbial Communities 
+    * Constructed a global network of microbial interactions in the global ocean using Tara expeditions metagenomic
+    and metatranscriptomic data
+    * Identified communities of cultivated and non-cultivated microbes
+    * Uncovered _social microbes_ and putative metabolic cross-feeding
+
 
 Sep. 2012 - Mar. 2017
 :   **Research and Teaching Assistant (PhD Student)
-    at Université Grenoble Alpes -- INRIA (Grenoble, France)**
+    at Université Grenoble Alpes -- Inria (Grenoble, France)**
     
     *Supervisors: 
     [<i class="fa fa-envelope-o" aria-hidden="true"></i>](mailto:Hidde.de-Jong@inria.fr)
     Dr. Hidde de Jong
-    ([Project-team Ibis](https://team.inria.fr/ibis/), INRIA)
+    ([Project-team Ibis](https://team.inria.fr/ibis/), Inria)
     & 
     [<i class="fa fa-envelope-o" aria-hidden="true"></i>](mailto:hans.geiselmann@univ-grenoble-alpes.fr)
     Pr. Johannes Geiselmann
@@ -60,9 +73,11 @@ Sep. 2012 - Mar. 2017
     * Engineered and monitored cells with fluorescent ribosomes using a microplate reader, microscope and
     microfluidic device
 
+### Internships
+
 Feb.-Jun. 2012
 :   **Research Assistant (Intern)
-    at INRIA (Grenoble, France)**
+    at Inria (Grenoble, France)**
 
     *Supervisors: 
     [<i class="fa fa-envelope-o" aria-hidden="true"></i>](mailto:Hidde.de-Jong@inria.fr)
@@ -70,7 +85,7 @@ Feb.-Jun. 2012
     & 
     [<i class="fa fa-envelope-o" aria-hidden="true"></i>](mailto:Delphine.Ropers@inria.fr)
     Dr. Delphine Ropers
-    ([Project-team Ibis](https://team.inria.fr/ibis/), INRIA)*
+    ([Project-team Ibis](https://team.inria.fr/ibis/), Inria)*
     
     * Reviewed and implemented state-of-the-art methods of sensitivity analysis on a complex
     model of the gene expression machinery in bacterium *E. coli*
@@ -113,11 +128,56 @@ Jun.-Jul. 2010
     * Showed that even when an irrational forcing is applied,
     the biological system does not exhibit any chaotic behavior
     (published in Journal of Computational Interdisciplinary Sciences)
+    
+ Publications
+------------
+
+2017
+:   **Mathematical Modeling of Microbes:
+    Metabolism, Gene Expression, and Growth**  
+    *de Jong H, Casagranda S, Giordano N, Cinquemani E, Ropers D, Geiselmann J, Gouzé J-L*  
+    Journal of The Royal Society Interface. 14.136 (2017): 20170502.
+    <a href="http://dx.doi.org/10.1098/rsif.2017.0502">
+    <i class="ai ai-doi ai"></i></a>
+    <a href="http://rsif.royalsocietypublishing.org/content/14/136/20170502#aHR0cDovL3JzaWYucm95YWxzb2NpZXR5cHVibGlzaGluZy5vcmcvY29udGVudC9yb3lpbnRlcmZhY2UvMTQvMTM2LzIwMTcwNTAyLmZ1bGwucGRmQEBAMA==">
+    <i class="fa fa-file-pdf-o fa"></i></a> 
+
+
+2016
+:   <i class="ai ai-open-access"></i>**Dynamical allocation of cellular resources as an optimal control problem:
+    Novel insights into microbial growth strategies.**  
+    *Giordano N, Mairet F, Gouzé J-L, Geiselmann J, de Jong H.*  
+    PLoS Computational Biology. 2016;12(3):e1004802.
+    <a href="http://dx.doi.org/10.1371/journal.pcbi.1004802">
+    <i class="ai ai-doi ai"></i></a>
+    <a href="http://journals.plos.org/ploscompbiol/article/asset?id=10.1371%2Fjournal.pcbi.1004802.PDF">
+    <i class="fa fa-file-pdf-o fa"></i></a> 
+
+2012
+:   <i class="ai ai-open-access"></i>**Dynamical responses of oscillating yeast cells suspensions to periodic forcing.**  
+    *Giordano N, D’Ovidio F, Danø S, Sørensen PG, De Monte S.*  
+    Journal of Computational Interdisciplinary Sciences. 2012;3(2):77–86.
+    <a href="http://dx.doi.org/10.6062/jcis.2012.03.02.0053">
+    <i class="ai ai-doi ai"></i></a>
+    <a href="http://epacis.net/jcis/PDF_JCIS/JCIS11-art.53.pdf">
+    <i class="fa fa-file-pdf-o fa"></i></a> 
+
+Other research activities
+-------------------------
+
+* Reviewer for European Control Conference 2019 ([ECC19](https://ecc19.eu/))
+
 
 Teaching experience
 -------------------
 
-Sept. 2013-Aug. 2016
+July 2018
+:    * **Environmental Genomics**, Université d’Angers, 3 hours  
+*Lecture and practical exercices for PhD students and young scientists at the Angers Bioinformatics Summer School,
+in collaboration with Dr. Samuel Chaffron.*
+
+
+Sept. 2013 to Aug. 2016
 :   **Teaching assistant**; Université Grenoble Alpes (Grenoble, France), 229 hours
 
     * **Bioinformatics: from genome analysis to modeling (BSc)**  
@@ -151,7 +211,7 @@ Education
     * Title:  *Microbial growth control in changing environments:
     Theoretical and experimental study of resource allocation in Escherichia coli*  
     * Supervisors: *Dr. Hidde de Jong & Pr. Johannes Geiselmann*  
-    * Laboratories: *[Project-team Ibis](https://team.inria.fr/ibis/) (INRIA Grenoble -- Rhône-Alpes)
+    * Laboratories: *[Project-team Ibis](https://team.inria.fr/ibis/) (Inria Grenoble -- Rhône-Alpes)
     and [team BIOP](http://www-liphy.ujf-grenoble.fr/Introduction-627)
     (Laboratoire Interdisciplinaire de Physique, Université Grenoble Alpes)*  
 
@@ -179,111 +239,12 @@ Education
 
     * French leading research school, selected via a national competitive exam  
 
-Publications
-------------
-
-2017
-:   **Mathematical Modeling of Microbes:
-    Metabolism, Gene Expression, and Growth**  
-    *de Jong H, Casagranda S, Giordano N, Cinquemani E, Ropers D, Geiselmann J, Gouzé J-L*  
-    Journal of The Royal Society Interface. 14.136 (2017): 20170502.
-    <a href="http://dx.doi.org/10.1098/rsif.2017.0502">
-    <i class="ai ai-doi ai"></i></a>
-    <a href="http://rsif.royalsocietypublishing.org/content/14/136/20170502#aHR0cDovL3JzaWYucm95YWxzb2NpZXR5cHVibGlzaGluZy5vcmcvY29udGVudC9yb3lpbnRlcmZhY2UvMTQvMTM2LzIwMTcwNTAyLmZ1bGwucGRmQEBAMA==">
-    <i class="fa fa-file-pdf-o fa"></i></a> 
-
-
-2016
-:   <i class="ai ai-open-access"></i>**Dynamical allocation of cellular resources as an optimal control problem:
-    Novel insights into microbial growth strategies.**  
-    *Giordano N, Mairet F, Gouzé J-L, Geiselmann J, de Jong H.*  
-    PLoS Computational Biology. 2016;12(3):e1004802.
-    <a href="http://dx.doi.org/10.1371/journal.pcbi.1004802">
-    <i class="ai ai-doi ai"></i></a>
-    <a href="http://journals.plos.org/ploscompbiol/article/asset?id=10.1371%2Fjournal.pcbi.1004802.PDF">
-    <i class="fa fa-file-pdf-o fa"></i></a> 
-
-2012
-:   <i class="ai ai-open-access"></i>**Dynamical responses of oscillating yeast cells suspensions to periodic forcing.**  
-    *Giordano N, D’Ovidio F, Danø S, Sørensen PG, De Monte S.*  
-    Journal of Computational Interdisciplinary Sciences. 2012;3(2):77–86.
-    <a href="http://dx.doi.org/10.6062/jcis.2012.03.02.0053">
-    <i class="ai ai-doi ai"></i></a>
-    <a href="http://epacis.net/jcis/PDF_JCIS/JCIS11-art.53.pdf">
-    <i class="fa fa-file-pdf-o fa"></i></a> 
-
-
-Technical skills
-----------------
-
-###Computing
-
-* Daily user of Python, Git, and Unix/shell scripting.
-
-* Experienced with Matlab/Octave, Scilab, R, PHP, SQL, HTML/CSS.
-
-* Curious about Julia, Ruby, Rust
-
-###Mathematics
-
-* Proficient in data analysis and modeling, in particular linear and non-linear dynamical systems.
-
-* Familiar with time-series analysis, image analysis, sensitivity analysis.
-More recently Kalman filtering, calculus of variations and optimal control theory.
-
-* Curious of statistics, graph theory, molecular modeling, machine learning (deep-learning).
-
-###Biology
-
-Bioinformatics
-:   Metagenomics, next-generation sequencing
-
-Molecular biology
-:   Cloning (molecular design, overlap PCR, Gibson assembly),
-    chromosomic modifications (electroporation, lambda-red recombineering)
-
-Laboratory Robotics
-:   Microplate reader (Perkin Elmer, Tecan), fluorescence microscope (Zeiss),
-    microfluidic device (Mother machine)
-
-
-Languages
----------
-
-French
-:   Native speaker
-
-English
-:   Fluent
-
-Italian
-:   Basic
-
-
 Extracurricular activities
 --------------------------
 
-* Outdoor and indoor climbings (~ 6A/B outdoor, 6B/C indoor, french quotations)
-* Contributor on [bioinfo-fr.net](https://bioinfo-fr.net),
-    a communautary French blog for bioinformaticians
-* Member of [RSG France -- JeBIF](https://jebif.fr/fr/),
-    the French society for young bioinformaticians
+* Outdoor and indoor climbing and bouldering (6A/B outdoor, 6B/C indoor, french quotations)
 * Advocate for the open-source and libre cultures
+* Former contributor on [bioinfo-fr.net](https://bioinfo-fr.net),
+    a communautary French blog for bioinformaticians
 
 ----    
-
-> <script type="text/javascript">
-<!--
-emm='org';
-em='normalesup';
-nn='ano';
-n='giord';
-p='nils';
-document.write('<a class="email" href="mailto:'
-    + p + '.' + n + nn + '+cv@' + em + '.' + emm +'">'+p+'.'+n+nn+'@'+em+'.'+emm+'</a>');
-//-->
-</script>
-<noscript>[Please enable javascript to see my email address]</noscript>  
-> Nantes (France)
-
-----
