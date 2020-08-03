@@ -1,7 +1,6 @@
 name: Webpage
 channels:
   - conda-forge
-  - bioconda
   - defaults
 dependencies:
   - _libgcc_mutex=0.1
@@ -39,5 +38,5 @@ dependencies:
   - pip:
     - asn1crypto==0.22.0
     - pelican-resume==0.1.0
-prefix: /home/giordano-n/.miniconda3/envs/Webpage
+prefix: /home/nigiord/.miniconda3/envs/Webpage
 
