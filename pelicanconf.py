@@ -49,7 +49,7 @@ RESUME_SRC = 'pages/cv.md'
 RESUME_PDF = 'pdfs/cv_giordano.pdf'
 
 # Theme configuration
-THEME = '../pelican-themes/pelican-bootstrap3'
+THEME = 'themes/pelican-bootstrap3'
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 I18N_SUBSITES = {'fr': {}}
 BOOTSTRAP_THEME = 'spacelab'
