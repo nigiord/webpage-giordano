@@ -12,10 +12,8 @@ Nils Giordano, PhD
 
 ---
 
-> **Computational Systems Biologist**  
-> *Microbial communities* -- *Metabolic Modeling* -- *Data Science* -- *Metaomics*
-
-> Fluent in Biology, Maths, and Computer Sciences
+> **Research Scientist** -- **Computational Systems Biologist**  
+> *Microbial communities* -- *Metabolic Modeling* -- *Data Science* -- *Metagenomics*
 
 ---
 
@@ -23,19 +21,38 @@ Skills
 ----------------
 
 Bioinformatics
-:   scripting (Python/Bash/Julia/R), versionning (Git), pipeline (Snakemake/Nextflow), metagenomics/metatranscriptomics (Illumina), genome binning and annotation
+:   Scripting (Python/Bash), Version control (Git), Pipeline design (Snakemake),
+    Metagenomics (Illumina), Genome binning, Genome annotation (EggNOG/KO),
+    Metabolic reconstruction (CarveMe), Metabolic modeling (Cobra)
+&nbsp;
 
 Biomathematics
-:   graph analysis, optimal control, optimization, modeling, linear/non-linear dynamical systems, time-series analysis (Kalman filtering/smoothing), image analysis (segmentation/tracking), sensitivity analysis
+:   Network analysis, Optimal control, Optimization, Modeling,
+    Linear/non-linear dynamical systems, 
+    Time-series analysis (Kalman filtering/smoothing), 
+    Image analysis (segmentation/tracking), Sensitivity analysis
+&nbsp;
 
-Lab skills/Microbiology
-:   cloning (molecular design, overlap PCR, Gibson assembly), chromosomic modifications (electroporation, lambda-red recombineering), microplate reader, fluorescence microscope, microfluidic
+Microbiology
+:   Cloning (molecular design, overlap PCR, Gibson assembly), 
+    Chromosome editing (electroporation, lambda-red recombineering), 
+    Microplate reader, Fluorescence microscope, Microfluidic
+&nbsp;
 
 Languages
 :   French (native), English (fluent), Italian (basic)
+&nbsp;
 
 Research experience
 -------------------
+
+Since Apr. 2020
+:   **Research Scientist
+    at Integrative Phenomics (Paris, France)**
+    
+    * Keywords: metabolic modeling, gut microbial communities,
+    metagenome scale modeling, nutrition, clinical studies
+
 
 Jan. 2018 - Dec. 2019
 :   **Postdoctoral Researcher
@@ -239,12 +256,15 @@ Education
 
     * French leading research school, selected via a national competitive exam  
 
-Extracurricular activities
+Misc -- Extracurricular activities
 --------------------------
 
 * Outdoor and indoor climbing and bouldering (6A/B outdoor, 6B/C indoor, french quotations)
 * Advocate for the open-source and libre cultures
 * Former contributor on [bioinfo-fr.net](https://bioinfo-fr.net),
-    a communautary French blog for bioinformaticians
+    a communautary French blog for bioinformaticians. [List of articles](https://bioinfo-fr.net/author/lins) (French).
+* Favorite keyboard layout: [BÉPO](https://en.wikipedia.org/wiki/B%C3%89PO)
+* Favorite Linux distribution: [Debian Sid](https://wiki.debian.org/DebianUnstable)
+* Favorite hardware brand: AMD (CPU and GPU)
 
 ----    

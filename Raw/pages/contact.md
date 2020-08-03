@@ -9,6 +9,7 @@ Slug: contact
 <li class="list-group-item"><i class="fa fa-envelope-o" aria-hidden="true"></i>
 Email: <script type="text/javascript" src="extra/email.js"></script>
 <noscript>[Enable JavaScript to see my email address]</noscript>
+
 <li class="list-group-item"><i class="fa fa-comment-o fa-lg"></i>
 IRC: <a href="irc://irc.freenode.net/#nigiord">irc.freenode.net/#nigiord</a>
 (you can use a <a href="https://webchat.freenode.net/">webclient</a>, channel #nigiord)</li>

@@ -44,6 +44,11 @@ You can also find my Google Scholar account [here](https://scholar.google.fr/cit
 
 Some scientific meetings where I have been or plan to be.
 
+Note: some slides and posters are not available because I did not get permission from 
+my previous collaborators to put them online yet.
+I will probably display them in a few months (updated: 2020-08-03) once the preprint is online.
+Feel free to [contact](./contact.html) me if you wish for a copy, or have any question about my work.
+
 <table class="table table-striped table-hover">
 <thead>
     <tr>
