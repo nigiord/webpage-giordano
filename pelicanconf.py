@@ -25,7 +25,7 @@ RELATIVE_URLS = True
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['i18n_subsites',
            'pelican_resume',
-           'pelican-bootstrapify']
+           'bootstrapify']
 
 MARKDOWN = {
         'extension_configs': {
