@@ -82,7 +82,7 @@ LINKS = (
 
 # Social widget
 SOCIAL = (('Github', 'https://github.com/nigiord'),
-          ('Google Scholar', 'https://scholar.google.fr/citations?user=r4wI-i4AAAAJ'),
+          ('Google Scholar', 'https://scholar.google.fr/citations?user=vVhTobMAAAAJ'),
           ('Orcid', 'https://orcid.org/0000-0003-2549-6631'),
           ('CV', 'pdfs/cv_giordano.pdf')
          )
