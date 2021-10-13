@@ -21,13 +21,13 @@ Skills
 ----------------
 
 Bioinformatics
-:   Scripting (Python/Bash), Version control (Git), Pipeline design (Snakemake),
-    Metagenomics (Illumina), Genome binning, Genome annotation (EggNOG/KO),
+:   Scripting (Python/Bash), Version control (Git), Pipeline design (Snakemake), Cluster usage (SGE/Slurm),
+    Cloud computing (AWS), Metagenomics (Illumina), Genome binning, Genome annotation (EggNOG/KO),
     Metabolic reconstruction (CarveMe), Metabolic modeling (Cobra)
 &nbsp;
 
 Biomathematics
-:   Network analysis, Optimal control, Optimization, Modeling,
+:   Network analysis, Optimal control, Optimization, Metabolic Modeling,
     Linear/non-linear dynamical systems, 
     Time-series analysis (Kalman filtering/smoothing), 
     Image analysis (segmentation/tracking), Sensitivity analysis
@@ -50,8 +50,11 @@ Since Apr. 2020
 :   **Research Scientist
     at Integrative Phenomics (Paris, France)**
     
-    * Keywords: metabolic modeling, gut microbial communities,
-    metagenome scale modeling, nutrition, clinical studies
+    * Developed pipelines for NGS analysis of gut metagenomic data and deployed them on the cloud (AWS)
+    * Designed a metabolic modeling platform to predict how metabolites from different dietary options are processed by the microbiote
+    * Analyzed blood and stool metabolomics data and compared them to model predictions
+    * Produced scientific reports, co-wrote publications, and animated internal/external meetings
+    * Participated in grant applications by designing and redacting work packages
 
 
 Jan. 2018 - Dec. 2019
@@ -63,10 +66,12 @@ Jan. 2018 - Dec. 2019
     Dr. Samuel Chaffron
     ([COMBI team](https://www.ls2n.fr/equipe/combi/), LS2N, CNRS)*
     
-    * Constructed a global network of microbial interactions in the global ocean using Tara expeditions metagenomic
-    and metatranscriptomic data
-    * Identified communities of cultivated and non-cultivated microbes
-    * Uncovered _social microbes_ and putative metabolic cross-feeding
+    * Constructed a global network of microbial interactions in the global ocean from Tara expeditions metagenomic and metatranscriptomic data
+    * Identified communities of co-active cultivated and non-cultivated microbes (bacteria/archaea)
+    * Uncovered functional traits linked to mutualism, including cross-feeding interactions derived from metabolic network reconstruction (publication in prep.)
+    * Developed pipelines for NGS analysis of ocean metatranscriptomic data and deployed them on a cluster
+    * Co-wrote and obtained a grant application for a 6-month extension of a Postdoc fellowship
+    * Co-wrote publications and talked at several scientific conferences
 
 
 Sep. 2012 - Mar. 2017
@@ -82,13 +87,10 @@ Sep. 2012 - Mar. 2017
     Pr. Johannes Geiselmann
     ([team BIOP](http://www-liphy.ujf-grenoble.fr/Introduction-627), LIPhy)*
     
-    * Led a theoretical and experimental study of resource allocations in bacterium *E. coli*
-
-    * Used Optimal Control Theory principles to show that unexpected resource allocation behaviors can be
-    predicted by assuming that bacteria optimize growth (published in Plos Comp. Biol.)
-
-    * Engineered and monitored cells with fluorescent ribosomes using a microplate reader, microscope and
-    microfluidic device
+    * Constructed an abstract mathematical model of nutrient allocation in a microorganism
+    * Applied Optimal Control to predict the optimal regulation of nutrient allocation during an environmental change
+    * Showed that such a regulation is reminiscent of known regulatory processes in E. coli (published in Plos Comp. Biol.)
+    * Engineered bacteria with fluorescent ribosomes and monitored them during an environmental change using a microfluidic device
 
 ### Internships
 
@@ -148,6 +150,14 @@ Jun.-Jul. 2010
     
  Publications
 ------------
+
+2021
+:   **A genome-resolved co-activity network reveals mechanisms shaping microbial community interactions in the oligotrophic ocean**  
+    *Giordano N, Gaudin M, Trottier C, Delage E, Chaffron S*  
+    Under finalization
+
+</strong><br />
+            
 
 2017
 :   **Mathematical Modeling of Microbes:

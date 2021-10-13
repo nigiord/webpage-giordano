@@ -58,7 +58,7 @@ I also helped to design and grad the final exam.*
         <td align="center">Joël Gaffé</td>
     </tr>
     <tr>
-        <td>Procaryotic genetics and microbiology</td>
+        <td>Prokaryotic genetics and microbiology</td>
         <td align="center">BSc</td>
         <td align="center">T/PW</td>
         <td align="center">88H</td>

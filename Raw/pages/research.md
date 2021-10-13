@@ -12,6 +12,14 @@ You can also find my Google Scholar account [here](https://scholar.google.fr/cit
 <table class="table table-striped table-hover">
 <tbody>
     <tr>
+        <td>2021</td>
+        <td>
+            <strong>A genome-resolved co-activity network reveals mechanisms shaping microbial community interactions in the oligotrophic ocean</strong><br />
+            <u>Giordano N</u>, Gaudin M, Trottier C, Delage E, Chaffron S<br />
+            <i>Under finalization</i>
+        </td>
+    </tr>
+    <tr>
         <td>2017</td>
         <td>
             <strong>Mathematical Modeling of Microbes:
@@ -46,7 +54,7 @@ Some scientific meetings where I have been or plan to be.
 
 Note: some slides and posters are not available because I did not get permission from 
 my previous collaborators to put them online yet.
-I will probably display them in a few months (updated: 2020-08-03) once the preprint is online.
+I will probably display them in a few months (updated: 2021-10) once the preprint is online.
 Feel free to [contact](./contact.html) me if you wish for a copy, or have any question about my work.
 
 <table class="table table-striped table-hover">
@@ -59,6 +67,13 @@ Feel free to [contact](./contact.html) me if you wish for a copy, or have any qu
     </tr>
 </thead>
 <tbody>
+    <tr>
+        <td align='center'>Nov. 2021</td>
+        <td align='center'>Bordeaux, France</td>
+        <td>Workshop on Metabolic Modeling (<a href="https://workshop.inrae.fr/modelisation-metabolisme">1st edition</a>)
+        </td>
+        <td></td>
+    </tr>
     <tr>
         <td align='center'>Oct. 2019</td>
         <td align='center'>La Rochelle, France</td>
