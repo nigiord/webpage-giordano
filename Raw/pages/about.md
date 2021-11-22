@@ -7,7 +7,7 @@ Status: hidden
 
 I am a Computational Systems Biologist specialized in microbiome modeling and analysis.
 
-I currently hold a position as a Research/Data Scientist at [Integrative Phenomics](https://integrative-phenomics.com/), a small French R&D company that provides microbiome-based nutritional recommendations.
+I currently hold a position as a Research/Data Scientist at [Integrative Phenomics](https://integrative-phenomics.com/), a French R&D company that provides microbiome-based nutritional recommendations.
 I work on the [Metabolic Modeling](https://en.wikipedia.org/wiki/Metabolic_network_modelling) of gut microbial communities, trying to understand and predict how they react to a change of diet through the combination of clinical and real-life data.
 
 Before that, I worked on [Microbial Ecology](https://en.wikipedia.org/wiki/Microbial_ecology) as a Postdoc in the COMBI team at the [Laboratory of Digital Sciences of Nantes](https://www.ls2n.fr/?lang=en) (LS2N, CNRS UMR 6004).
