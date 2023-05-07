@@ -1,10 +1,10 @@
 ---
-Title: Curriculum Vitae
-Url: cv.html
-Save_as: cv.html
-Slug: cv
-Lang: en
-Rank: 2
+title: Curriculum Vitae
+url: cv.html
+save_as: cv.html
+slug: cv
+lang: en
+rank: 2
 ---
 
 Nils Giordano, PhD
@@ -22,7 +22,7 @@ Skills
 
 Bioinformatics
 :   Scripting (Python/Bash), Version control (Git), Pipeline design (Snakemake), Cluster usage (SGE/Slurm),
-    Cloud computing (AWS), Metagenomics (Illumina), Genome binning, Genome annotation (EggNOG/KO),
+    Cloud computing (AWS), Metagenomics, scMultiomics, Genome binning, Genome annotation (EggNOG/KO),
     Metabolic reconstruction (CarveMe), Metabolic modeling (Cobra)
 &nbsp;
 
@@ -46,7 +46,19 @@ Languages
 Research experience
 -------------------
 
-Since Apr. 2020
+Since Jan. 2023
+:   **Postdoctoral Researcher
+    at INSERM (Nantes, France)**
+    
+    *Mentor: 
+    [<i class="fa fa-envelope-o" aria-hidden="true"></i>](mailto:Eric.Letouze@gmail.com)
+    Dr. Éric Letouzé
+    ([ICAGEN team](https://crci2na.univ-nantes.fr/en/research/team-8), CRCI<sup>2</sup>NA, INSERM U1307)*
+    
+    * Multiple Myeloma · Single Cell Multiomics · Next-Generation Sequencing (NGS)
+
+
+Apr. 2020 - Jun. 2022
 :   **Research Scientist
     at Integrative Phenomics (Paris, France)**
     
@@ -151,29 +163,43 @@ Jun.-Jul. 2010
  Publications
 ------------
 
-2021
-:   **A genome-resolved co-activity network reveals mechanisms shaping microbial community interactions in the oligotrophic ocean**  
-    *Giordano N, Gaudin M, Trottier C, Delage E, Chaffron S*  
-    Under finalization
+2023
+:   **Single-cell data reveal heterogeneity of resource allocation across a bacterial population**  
+    *Pavlou A, Cinquemani E, Pinel C, <u>Giordano N</u>, Van Melle Gateau M, Mihalcescu I, Geiselmann J, de Jong H*  
+    *In preparation*
+2023
+:   **Acquired resistance to [CONFIDENTIAL] in multiple myeloma**  
+    *Derrien J, Gastineau S, Frigout A, <u>Giordano N</u>, Cherkaoui M, Gaborit V, Douillard E, Devic M, Magrangeas F, Moreau P, Minvielle S, Touzeau C*  
+    *Submitted*
 
-</strong><br />
-            
+2023
+:   **A genome-resolved co-activity network reveals mechanisms shaping microbial community interactions in the oligotrophic ocean**  
+    *<u>Giordano N,</u> Gaudin M, Trottier C, Delage E, Chaffron S*  
+    *Submitted*
+
+2022
+:   **Characterization of the Gut Microbiota in Individuals with Overweight or Obesity during a Real-World Weight Loss Dietary Program: A Focus on the Bacteroides 2 Enterotype**  
+    *Alili R, Belda E, Fabre O, Pelloux V, <u>Giordano N</u>, Legrand R, Bel Lassen P, Swartz TD, Zucker J-D, Clément K*  
+    Biomedicines. 2022; 10(1):16.
+    <a href="https://doi.org/10.3390/biomedicines10010016">
+    <i class="ai ai-doi ai"></i></a>
+    <a href="https://www.mdpi.com/2227-9059/10/1/16/pdf">
+    <i class="fa fa-file-pdf-o fa"></i></a> 
 
 2017
 :   **Mathematical Modeling of Microbes:
     Metabolism, Gene Expression, and Growth**  
-    *de Jong H, Casagranda S, Giordano N, Cinquemani E, Ropers D, Geiselmann J, Gouzé J-L*  
+    *de Jong H, Casagranda S, <u>Giordano N</u>, Cinquemani E, Ropers D, Geiselmann J, Gouzé J-L*  
     Journal of The Royal Society Interface. 14.136 (2017): 20170502.
     <a href="http://dx.doi.org/10.1098/rsif.2017.0502">
     <i class="ai ai-doi ai"></i></a>
     <a href="http://rsif.royalsocietypublishing.org/content/14/136/20170502#aHR0cDovL3JzaWYucm95YWxzb2NpZXR5cHVibGlzaGluZy5vcmcvY29udGVudC9yb3lpbnRlcmZhY2UvMTQvMTM2LzIwMTcwNTAyLmZ1bGwucGRmQEBAMA==">
     <i class="fa fa-file-pdf-o fa"></i></a> 
 
-
 2016
 :   <i class="ai ai-open-access"></i>**Dynamical allocation of cellular resources as an optimal control problem:
     Novel insights into microbial growth strategies.**  
-    *Giordano N, Mairet F, Gouzé J-L, Geiselmann J, de Jong H.*  
+    *<u>Giordano N</u>, Mairet F, Gouzé J-L, Geiselmann J, de Jong H.*  
     PLoS Computational Biology. 2016;12(3):e1004802.
     <a href="http://dx.doi.org/10.1371/journal.pcbi.1004802">
     <i class="ai ai-doi ai"></i></a>
@@ -182,7 +208,7 @@ Jun.-Jul. 2010
 
 2012
 :   <i class="ai ai-open-access"></i>**Dynamical responses of oscillating yeast cells suspensions to periodic forcing.**  
-    *Giordano N, D’Ovidio F, Danø S, Sørensen PG, De Monte S.*  
+    *<u>Giordano N</u>, D’Ovidio F, Danø S, Sørensen PG, De Monte S.*  
     Journal of Computational Interdisciplinary Sciences. 2012;3(2):77–86.
     <a href="http://dx.doi.org/10.6062/jcis.2012.03.02.0053">
     <i class="ai ai-doi ai"></i></a>

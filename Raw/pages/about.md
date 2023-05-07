@@ -5,22 +5,20 @@ Lang: en
 Slug: about
 Status: hidden
 
-I am a Computational Systems Biologist specialized in microbiome modeling and analysis.
+I am a Computational Systems Biologist specialized in the modeling and analysis of cell communities.
 
-I currently hold a position as a Research/Data Scientist at [Integrative Phenomics](https://integrative-phenomics.com/), a French R&D company that provides microbiome-based nutritional recommendations.
-I work on the [Metabolic Modeling](https://en.wikipedia.org/wiki/Metabolic_network_modelling) of gut microbial communities, trying to understand and predict how they react to a change of diet through the combination of clinical and real-life data.
+Since January 2023, I work as a Postdoc in the [Integrated Cancer Genomics](https://crci2na.univ-nantes.fr/en/research/team-8) team (ICAGEN) of the Nantes-Angers Cancer and Immunology Research Center (CRCI<sup>2</sup>NA).
+I apply my modeling skills on the integration of single-cell multiomic datasets from [multiple myeloma](https://en.wikipedia.org/wiki/Multiple_myeloma) samples, a plasma cell cancer characterized by its huge heterogeneity across patients
 
-Before that, I worked on [Microbial Ecology](https://en.wikipedia.org/wiki/Microbial_ecology) as a Postdoc in the COMBI team at the [Laboratory of Digital Sciences of Nantes](https://www.ls2n.fr/?lang=en) (LS2N, CNRS UMR 6004).
-My work mostly revolved around Metagenomics, NGS data analysis, and Metabolic Modeling of microbial communities in the global ocean, using data acquired during the [Tara Oceans](https://oceans.taraexpeditions.org/en/) expeditions.
-During my Ph.D. thesis, I was a Research and Teaching Assistant at [Inria](https://team.inria.fr/ibis/) &
-[Université Grenoble Alpes](http://www-liphy.ujf-grenoble.fr/Introduction-627?lang=en).
-I worked on microbial growth laws of resource allocation in changing environments using a combination of [Control Theory](https://en.wikipedia.org/wiki/Control_theory) and [Synthetic Biology](https://en.wikipedia.org/wiki/Synthetic_biology).
-Finally, I also worked on Theoretical Physics ([Goldstein lab](http://www.damtp.cam.ac.uk/user/gold/), University of Cambridge, UK) and Eco-Evolutionary Mathematics (with [Silvia de Monte](http://www.biologie.ens.fr/eceem/demonte.html), Ecole Normale Supérieure, FR) during multiple internships.
+This new project follows 4 years of postdoctoral experience studying ocean and gut microbial communities both in academia and the industry.
+I have a widespread and validaded expertise on [NGS](https://en.wikipedia.org/wiki/DNA_sequencing) data analysis, [Metabolic Modeling](https://en.wikipedia.org/wiki/Metabolic_network_modelling), [Microbial Ecology](https://en.wikipedia.org/wiki/Microbial_ecology),
+but also the application of [Control Theory](https://en.wikipedia.org/wiki/Control_theory) and [Synthetic Biology](https://en.wikipedia.org/wiki/Synthetic_biology) to Cell Biology.
+You will find more detailed information about my previous work on the [Research](./research.html) and [CV](./cv.html) sections of this website.
 
-Overall, my scientific interests include maths, biology, and computer sciences.
+Overall, my scientific interests are at the interface of maths, biology, and computer sciences.
 Apart from science, my favorite Linux distribution is [Debian Sid](https://wiki.debian.org/DebianUnstable) and my favorite keyboard layout is [BÉPO](https://en.wikipedia.org/wiki/B%C3%89PO).
 I read fantasy novels (Markus Heitz, Robin Hobb, Andrzej Sapkowski, ...) and watch videos about economics ([Heureka](https://www.youtube.com/c/HeurekaFinanceEco)).
-I am a free software and data privacy advocate and support organizations like [\[π\] La Quadrature du Net](https://www.laquadrature.net/).
+I am also a free software and data privacy advocate.
 I like rock climbing and bouldering which I practice around Nantes (it's where I live!).
 
 Feel free to [contact me](./contact.html) with any questions about my work or inquiries about work opportunities.

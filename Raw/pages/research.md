@@ -12,18 +12,41 @@ You can also find my Google Scholar account [here](https://scholar.google.fr/cit
 <table class="table table-striped table-hover">
 <tbody>
     <tr>
-        <td>2021</td>
+        <td>2023</td>
+        <td>
+            <strong>Single-cell data reveal heterogeneity of resource allocation across a bacterial population</strong><br />
+            Pavlou A, Cinquemani E, Pinel C, <u>Giordano N</u>, Van Melle Gateau M, Mihalcescu I, Geiselmann J, de Jong H<br />
+            <i>In preparation</i>
+        </td>
+    </tr>
+    <tr>
+        <td>2023</td>
+        <td>
+            <strong>Acquired resistance to [CONFIDENTIAL] in multiple myeloma</strong><br />
+            Derrien J, Gastineau S, Frigout A, <u>Giordano N</u>, Cherkaoui M, Gaborit V, Douillard E, Devic M, Magrangeas F, Moreau P, Minvielle S, Touzeau C
+            <i>Submitted</i>
+        </td>
+    </tr>
+    <tr>
+        <td>2023</td>
         <td>
             <strong>A genome-resolved co-activity network reveals mechanisms shaping microbial community interactions in the oligotrophic ocean</strong><br />
             <u>Giordano N</u>, Gaudin M, Trottier C, Delage E, Chaffron S<br />
-            <i>Under finalization</i>
+            <i>Submitted</i>
+        </td>
+    </tr>
+    <tr>
+        <td>2022</td>
+        <td>
+            <i class="ai ai-open-access"></i><strong>Characterization of the Gut Microbiota in Individuals with Overweight or Obesity during a Real-World Weight Loss Dietary Program: A Focus on the Bacteroides 2 Enterotype</strong><br />
+            Alili R, Belda E, Fabre O, Pelloux V, <u>Giordano N</u>, Legrand R, Bel Lassen P, Swartz TD, Zucker J-D, Clément K<br />
+            Biomedicines. 2022; 10(1):16. <a href="https://doi.org/10.3390/biomedicines10010016"><i class="ai ai-doi ai-2x"></i></a><a href="https://www.mdpi.com/2227-9059/10/1/16/pdf"><i class="fa fa-file-pdf-o fa-2x"></i></a> 
         </td>
     </tr>
     <tr>
         <td>2017</td>
         <td>
-            <strong>Mathematical Modeling of Microbes:
-            Metabolism, Gene Expression, and Growth</strong><br />
+            <i class="ai ai-open-access"></i><strong>Mathematical Modeling of Microbes: Metabolism, Gene Expression, and Growth</strong><br />
             de Jong H, Casagranda S, <u>Giordano N</u>, Cinquemani E, Ropers D, Geiselmann J, Gouzé J-L<br />
             Journal of The Royal Society Interface. 14.136 (2017): 20170502. <a href="http://dx.doi.org/10.1098/rsif.2017.0502"><i class="ai ai-doi ai-2x"></i></a> <a href="http://rsif.royalsocietypublishing.org/content/14/136/20170502#aHR0cDovL3JzaWYucm95YWxzb2NpZXR5cHVibGlzaGluZy5vcmcvY29udGVudC9yb3lpbnRlcmZhY2UvMTQvMTM2LzIwMTcwNTAyLmZ1bGwucGRmQEBAMA=="><i class="fa fa-file-pdf-o fa-2x"></i></a> 
         </td>
@@ -52,9 +75,7 @@ You can also find my Google Scholar account [here](https://scholar.google.fr/cit
 
 Some scientific meetings where I have been or plan to be.
 
-Note: some slides and posters are not available because I did not get permission from 
-my previous collaborators to put them online yet.
-I will probably display them in a few months (updated: 2021-10) once the preprint is online.
+Note: Missing slides and posters will be made available as soon as possible.
 Feel free to [contact](./contact.html) me if you wish for a copy, or have any question about my work.
 
 <table class="table table-striped table-hover">
@@ -67,6 +88,13 @@ Feel free to [contact](./contact.html) me if you wish for a copy, or have any qu
     </tr>
 </thead>
 <tbody>
+    <tr>
+        <td align='center'>Mar. 2023</td>
+        <td align='center'>Nantes, France</td>
+        <td>Applications of Single Cell Genomics across Development and Immune Diseases (1st edition)
+        </td>
+        <td></td>
+    </tr>
     <tr>
         <td align='center'>Nov. 2021</td>
         <td align='center'>Bordeaux, France</td>
@@ -198,10 +226,16 @@ Feel free to [contact](./contact.html) me if you wish for a copy, or have any qu
 </tbody>
 </table>
 
-##Other activities
+##Misc
 
 <table class="table">
 <tbody>
+    <tr>
+        <td align='center' width="8%">2019</td>
+        <td align='left' width="65%">
+            Qualification CNU Maître de Conférence: Section 65 Biologie Cellulaire (<a href="https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/qualification/Resultats2019/qualifies2019_MCF.pdf">CNU</a>)
+        </td>
+    </tr>
     <tr>
         <td align='center' width="8%">2018</td>
         <td align='left' width="65%">
