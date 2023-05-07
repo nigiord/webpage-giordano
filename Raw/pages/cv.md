@@ -170,7 +170,7 @@ Jun.-Jul. 2010
 
 2023
 :   **Acquired resistance to [CONFIDENTIAL] in multiple myeloma**  
-    *Derrien J, Gastineau S, Frigout A, <u>Giordano N</u>, Cherkaoui M, Gaborit V, Douillard E, Devic M, Magrangeas F, Moreau P, Minvielle S, Touzeau C*  
+    *Derrien J, Gastineau S, Frigout A, <u>Giordano N</u>, Cherkaoui M, Gaborit V, Douillard E, Devic M, Magrangeas F, Moreau P, Minvielle S, Touzeau C, Letouzé E*  
     *Submitted*
 
 2023

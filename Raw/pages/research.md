@@ -23,7 +23,7 @@ You can also find my Google Scholar account [here](https://scholar.google.fr/cit
         <td>2023</td>
         <td>
             <strong>Acquired resistance to [CONFIDENTIAL] in multiple myeloma</strong><br />
-            Derrien J, Gastineau S, Frigout A, <u>Giordano N</u>, Cherkaoui M, Gaborit V, Douillard E, Devic M, Magrangeas F, Moreau P, Minvielle S, Touzeau C
+            Derrien J, Gastineau S, Frigout A, <u>Giordano N</u>, Cherkaoui M, Gaborit V, Douillard E, Devic M, Magrangeas F, Moreau P, Minvielle S, Touzeau C, Letouzé E
             <i>Submitted</i>
         </td>
     </tr>
