@@ -13,7 +13,7 @@ Nils Giordano, PhD
 ---
 
 > **Research Scientist** -- **Computational Systems Biologist**  
-> *Microbial communities* -- *Metabolic Modeling* -- *Data Science* -- *Metagenomics*
+> *Data Analysis* -- *Mathematical Modeling* -- *Next-Generation Sequencing (NGS)* -- *Single-cell* -- *Omics*
 
 ---
 
@@ -167,6 +167,7 @@ Jun.-Jul. 2010
 :   **Single-cell data reveal heterogeneity of resource allocation across a bacterial population**  
     *Pavlou A, Cinquemani E, Pinel C, <u>Giordano N</u>, Van Melle Gateau M, Mihalcescu I, Geiselmann J, de Jong H*  
     *In preparation*
+
 2023
 :   **Acquired resistance to [CONFIDENTIAL] in multiple myeloma**  
     *Derrien J, Gastineau S, Frigout A, <u>Giordano N</u>, Cherkaoui M, Gaborit V, Douillard E, Devic M, Magrangeas F, Moreau P, Minvielle S, Touzeau C*  
