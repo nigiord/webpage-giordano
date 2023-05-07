@@ -12,7 +12,7 @@ DEFAULT_LANG = 'en'
 
 PATH = 'Raw'
 OUTPUT_PATH = 'WWW'
-STATIC_PATHS = ['extra', 'images', 'pdfs']
+STATIC_PATHS = ['extra', 'pdfs']
 
 EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
@@ -47,6 +47,7 @@ BANNER_ONLY = True
 # Configuration for the pelican-resume plugin that generate pdf for CV
 RESUME_SRC = 'pages/cv.md'
 RESUME_PDF = 'pdfs/cv_giordano.pdf'
+RESUME_WKHTMLTOPDF = 'wkhtmltopdf --enable-local-file-access'  # necessary since version 0.12.6
 
 # Theme configuration
 THEME = 'themes/pelican-bootstrap3'
