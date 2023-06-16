@@ -22,9 +22,9 @@ You can also find my Google Scholar account [here](https://scholar.google.fr/cit
     <tr>
         <td>2023</td>
         <td>
-            <strong>Acquired resistance to [CONFIDENTIAL] in multiple myeloma</strong><br />
-            Derrien J, Gastineau S, Frigout A, <u>Giordano N</u>, Cherkaoui M, Gaborit V, Douillard E, Devic M, Magrangeas F, Moreau P, Minvielle S, Touzeau C, Letouzé E
-            <i>Submitted</i>
+            <strong>Acquired resistance to bispecific antibodies by genetic or epigenetic inactivation of the target in multiple myeloma</strong><br />
+            Derrien J, Gastineau S, Frigout A, <u>Giordano N</u>, Cherkaoui M, Gaborit V, Douillard E, Devic M, Magrangeas F, Moreau P, Minvielle S, Touzeau C, Letouzé E<br />
+            <i>Submitted</i>. Preprint: <a href="https://www.researchsquare.com/article/rs-2573797/v1"><i class="ai ai-doi ai-2x"></i></a>
         </td>
     </tr>
     <tr>
@@ -32,7 +32,7 @@ You can also find my Google Scholar account [here](https://scholar.google.fr/cit
         <td>
             <strong>A genome-resolved co-activity network reveals mechanisms shaping microbial community interactions in the oligotrophic ocean</strong><br />
             <u>Giordano N</u>, Gaudin M, Trottier C, Delage E, Chaffron S<br />
-            <i>Submitted</i>
+            <i>Submitted</i>. Preprint: (soon)
         </td>
     </tr>
     <tr>

@@ -169,7 +169,7 @@ Jun.-Jul. 2010
     *In preparation*
 
 2023
-:   **Acquired resistance to [CONFIDENTIAL] in multiple myeloma**  
+:   **Acquired resistance to bispecific antibodies by genetic or epigenetic inactivation of the target in multiple myeloma**  
     *Derrien J, Gastineau S, Frigout A, <u>Giordano N</u>, Cherkaoui M, Gaborit V, Douillard E, Devic M, Magrangeas F, Moreau P, Minvielle S, Touzeau C, Letouzé E*  
     *Submitted*
 
