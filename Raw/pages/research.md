@@ -24,15 +24,16 @@ You can also find my Google Scholar account [here](https://scholar.google.fr/cit
         <td>
             <strong>Acquired resistance to bispecific antibodies by genetic or epigenetic inactivation of the target in multiple myeloma</strong><br />
             Derrien J, Gastineau S, Frigout A, <u>Giordano N</u>, Cherkaoui M, Gaborit V, Douillard E, Devic M, Magrangeas F, Moreau P, Minvielle S, Touzeau C, Letouzé E<br />
-            <i>Submitted</i>. Preprint: <a href="https://www.researchsquare.com/article/rs-2573797/v1"><i class="ai ai-doi ai-2x"></i></a>
+            <i>(Under review). Preprint.</i> <a href="https://www.researchsquare.com/article/rs-2573797/v1"><i class="ai ai-doi ai-2x"></i></a>
         </td>
     </tr>
     <tr>
         <td>2023</td>
         <td>
             <strong>A genome-resolved co-activity network reveals mechanisms shaping microbial community interactions in the oligotrophic ocean</strong><br />
-            <u>Giordano N</u>, Gaudin M, Trottier C, Delage E, Chaffron S<br />
-            <i>Submitted</i>. Preprint: (soon)
+            <u>Giordano N</u>, Gaudin M, Trottier C, Delage E, Nef C, Bowler C, Chaffron S<br />
+            <i>(Under review). Preprint.</i> <a href="https://doi.org/10.1101/2023.06.21.545869"><i class="ai ai-doi ai-2x"></i></a>
+            
         </td>
     </tr>
     <tr>
@@ -75,9 +76,6 @@ You can also find my Google Scholar account [here](https://scholar.google.fr/cit
 
 Some scientific meetings where I have been or plan to be.
 
-Note: Missing slides and posters will be made available as soon as possible.
-Feel free to [contact](./contact.html) me if you wish for a copy, or have any question about my work.
-
 <table class="table table-striped table-hover">
 <thead>
     <tr>
@@ -107,7 +105,7 @@ Feel free to [contact](./contact.html) me if you wish for a copy, or have any qu
         <td align='center'>La Rochelle, France</td>
         <td>Workshop on Environmental Genomics (<a href="https://apps.univ-lr.fr/cgi-bin/WebObjects/Colloque.woa/1/wa/colloque?code=2401&lang=en">GDR-GE, 5th edition</a>)
         </td>
-        <td>Presentation</td>
+        <td><a href="pdfs/gdrge_2019.pdf">Presentation <i class="fa fa-file-pdf-o fa-2x"></i></a></td>
     </tr>
     <tr>
         <td align='center'>Oct. 2019</td>
@@ -115,7 +113,9 @@ Feel free to [contact](./contact.html) me if you wish for a copy, or have any qu
         <td>
         Workshop Recent Computational Advances in Metagenomics (<a href="http://maiage.jouy.inra.fr/?q=fr/rcam2019">RCAM'19</a>)
         </td>
-        <td></td>
+        <td>
+            <a href="pdfs/rcam_2019.pdf">Presentation <i class="fa fa-file-pdf-o fa-2x"></i></a> and <a href="pdfs/rcam_2019_abstract.pdf">Abstract <i class="fa fa-file-pdf-o fa-2x"></i></a>
+        </td>
     </tr>
     <tr>
         <td align='center'>Jul. 2019</td>
@@ -123,7 +123,9 @@ Feel free to [contact](./contact.html) me if you wish for a copy, or have any qu
         <td>
         Journées Ouvertes Biologie, Informatique & Mathématiques (<a href="https://jobim2019.sciencesconf.org/">JOBIM 2019</a>, Omics Dark Matter session)
         </td>
-        <td>Presentation and Poster</td>
+        <td>
+            <a href="pdfs/jobim_2019.pdf">Presentation <i class="fa fa-file-pdf-o fa-2x"></i></a> and <a href="pdfs/jobim_2019_poster.pdf">Poster <i class="fa fa-file-pdf-o fa-2x"></i></a>
+        </td>
     </tr>
     <tr>
         <td align='center'>Oct. 2018</td>
@@ -131,7 +133,7 @@ Feel free to [contact](./contact.html) me if you wish for a copy, or have any qu
         <td>
         International Conference on Ecological Sciences (<a href="https://sfecologie2018.sciencesconf.org/">SFEcologie 2018</a>)
         </td>
-        <td>Presentation</td>
+        <td><a href="pdfs/sfecology_2018.pdf">Presentation <i class="fa fa-file-pdf-o fa-2x"></i></a></td>
     </tr>
     <tr>
         <td align='center'>Sep. 2018</td>
@@ -147,7 +149,7 @@ Feel free to [contact](./contact.html) me if you wish for a copy, or have any qu
         <td>
         Workshop on Systemic and Symbolic Biology (<a href="http://bioss-cnrs.fr/manif/jnbioss_201807/jnbioss201807.html">BIOSS, 4th edition</a>)
         </td>
-        <td>Presentation</td>
+        <td><a href="pdfs/gtbioss_2018.pdf">Presentation <i class="fa fa-file-pdf-o fa-2x"></i></a></td>
     </tr>
     <tr>
         <td align='center'>Mar. 2018</td>
@@ -220,7 +222,7 @@ Feel free to [contact](./contact.html) me if you wish for a copy, or have any qu
             International Symposium on Mathematical Theory of Networks and Systems (MTNS)
         </td>
         <td>
-            <a href="https://hal.inria.fr/hal-01079299/">Extended abstract <i class="fa fa-file-pdf-o fa-2x"></i></a>
+            <a href="https://hal.inria.fr/hal-01079299/">Extended abstract <i class="ai ai-doi ai-2x"></i></a>
         </td>
     </tr>
 </tbody>

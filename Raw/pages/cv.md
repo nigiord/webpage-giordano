@@ -171,12 +171,12 @@ Jun.-Jul. 2010
 2023
 :   **Acquired resistance to bispecific antibodies by genetic or epigenetic inactivation of the target in multiple myeloma**  
     *Derrien J, Gastineau S, Frigout A, <u>Giordano N</u>, Cherkaoui M, Gaborit V, Douillard E, Devic M, Magrangeas F, Moreau P, Minvielle S, Touzeau C, Letouzé E*  
-    *Submitted*
+    *(Under review).*
 
 2023
 :   **A genome-resolved co-activity network reveals mechanisms shaping microbial community interactions in the oligotrophic ocean**  
-    *<u>Giordano N,</u> Gaudin M, Trottier C, Delage E, Chaffron S*  
-    *Submitted*
+    *<u>Giordano N,</u> Gaudin M, Trottier C, Delage E, Nef C, Bowler C, Chaffron S*  
+    *(Under review).*
 
 2022
 :   **Characterization of the Gut Microbiota in Individuals with Overweight or Obesity during a Real-World Weight Loss Dietary Program: A Focus on the Bacteroides 2 Enterotype**  
