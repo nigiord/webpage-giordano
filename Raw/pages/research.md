@@ -16,24 +16,24 @@ You can also find my Google Scholar account [here](https://scholar.google.fr/cit
         <td>
             <strong>Single-cell data reveal heterogeneity of resource allocation across a bacterial population</strong><br />
             Pavlou A, Cinquemani E, Pinel C, <u>Giordano N</u>, Van Melle Gateau M, Mihalcescu I, Geiselmann J, de Jong H<br />
-            <i>In preparation</i>
+            <i>Submitted.</i>
         </td>
     </tr>
     <tr>
         <td>2023</td>
         <td>
-            <strong>Acquired resistance to bispecific antibodies by genetic or epigenetic inactivation of the target in multiple myeloma</strong><br />
-            Derrien J, Gastineau S, Frigout A, <u>Giordano N</u>, Cherkaoui M, Gaborit V, Douillard E, Devic M, Magrangeas F, Moreau P, Minvielle S, Touzeau C, Letouzé E<br />
-            <i>(Under review). Preprint.</i> <a href="https://www.researchsquare.com/article/rs-2573797/v1"><i class="ai ai-doi ai-2x"></i></a>
-        </td>
-    </tr>
-    <tr>
-        <td>2023</td>
-        <td>
-            <strong>A genome-resolved co-activity network reveals mechanisms shaping microbial community interactions in the oligotrophic ocean</strong><br />
+            <strong>Genome-scale community modelling reveals conserved metabolic cross-feedings in epipelagic bacterioplankton communities</strong><br />
             <u>Giordano N</u>, Gaudin M, Trottier C, Delage E, Nef C, Bowler C, Chaffron S<br />
-            <i>(Under review). Preprint.</i> <a href="https://doi.org/10.1101/2023.06.21.545869"><i class="ai ai-doi ai-2x"></i></a>
+            <i>In revision. Preprint:</i> <a href="https://doi.org/10.1101/2023.06.21.545869"><i class="ai ai-doi ai-2x"></i></a>
             
+        </td>
+    </tr>
+    <tr>
+        <td>2023</td>
+        <td>
+            <strong>Acquired resistance to a GPRC5D-directed T-cell engager in multiple myeloma is mediated by genetic or epigenetic target inactivation</strong><br />
+            Derrien J, Gastineau, S, Frigout A, <u>Giordano N</u>, Cherkaoui M, Gaborit V, Boinon R, Douillard E, Devic M, Magrangeas F, Moreau P, Minvielle S, Touzeau C, Letouzé E<br />
+            Nat Cancer 2023. Aug 31;1-8. <a href="https://doi.org/10.1038/s43018-023-00625-9"><i class="ai ai-doi ai-2x"></i></a><a href="https://www.nature.com/articles/s43018-023-00625-9"><i class="fa fa-file-pdf-o fa-2x"></i></a>
         </td>
     </tr>
     <tr>

@@ -21,8 +21,8 @@ Skills
 ----------------
 
 Bioinformatics
-:   Scripting (Python/Bash), Version control (Git), Pipeline design (Snakemake), Cluster usage (SGE/Slurm),
-    Cloud computing (AWS), Metagenomics, scMultiomics, Genome binning, Genome annotation (EggNOG/KO),
+:   Scripting (Python/Bash), Version control (Git), Pipeline design (Snakemake, contributor), Cluster usage (SGE/Slurm),
+    Cloud computing (AWS), Metagenomics, scMultiomics (10x Genomics), Genome binning, Genome annotation (EggNOG/KO),
     Metabolic reconstruction (CarveMe), Metabolic modeling (Cobra)
 &nbsp;
 
@@ -166,17 +166,21 @@ Jun.-Jul. 2010
 2023
 :   **Single-cell data reveal heterogeneity of resource allocation across a bacterial population**  
     *Pavlou A, Cinquemani E, Pinel C, <u>Giordano N</u>, Van Melle Gateau M, Mihalcescu I, Geiselmann J, de Jong H*  
-    *In preparation*
+    *Submitted.*
 
 2023
-:   **Acquired resistance to bispecific antibodies by genetic or epigenetic inactivation of the target in multiple myeloma**  
-    *Derrien J, Gastineau S, Frigout A, <u>Giordano N</u>, Cherkaoui M, Gaborit V, Douillard E, Devic M, Magrangeas F, Moreau P, Minvielle S, Touzeau C, Letouzé E*  
-    *(Under review).*
-
-2023
-:   **A genome-resolved co-activity network reveals mechanisms shaping microbial community interactions in the oligotrophic ocean**  
+:   **Genome-scale community modelling reveals conserved metabolic cross-feedings in epipelagic bacterioplankton communities**  
     *<u>Giordano N,</u> Gaudin M, Trottier C, Delage E, Nef C, Bowler C, Chaffron S*  
-    *(Under review).*
+    *In revision.*
+
+2023
+:   **Acquired resistance to a GPRC5D-directed T-cell engager in multiple myeloma is mediated by genetic or epigenetic target inactivation**  
+    *Derrien J, Gastineau S, Frigout A, <u>Giordano N</u>, Cherkaoui M, Gaborit V, Boinon R, Douillard E, Devic M, Magrangeas F, Moreau P, Minvielle S, Touzeau C, Letouzé E*  
+    Nat Cancer 2023. Aug 31;1-8.
+    <a href="https://doi.org/10.1038/s43018-023-00625-9">
+    <i class="ai ai-doi ai"></i></a>
+    <a href="https://www.nature.com/articles/s43018-023-00625-9">
+    <i class="fa fa-file-pdf-o fa"></i></a>
 
 2022
 :   **Characterization of the Gut Microbiota in Individuals with Overweight or Obesity during a Real-World Weight Loss Dietary Program: A Focus on the Bacteroides 2 Enterotype**  

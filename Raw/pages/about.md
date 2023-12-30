@@ -7,6 +7,10 @@ Status: hidden
 
 I am a Computational Systems Biologist specialized in the modeling and analysis of cell communities.
 
+For a short summary of my work, you can find examples of code I wrote on github <a href="https://github.com/nigiord"><i class="fa fa-github-square fa-lg"></i></a>
+or my employer's gitlab <a href="https://gitlab.univ-nantes.fr/giordano-n"><i class="fa fa-gitlab fa-lg"></i></a>, 
+but also links to research papers that I co-authored on the [research section](./research.html) of this website.
+
 Since January 2023, I work as a Postdoc in the [Integrated Cancer Genomics](https://crci2na.univ-nantes.fr/en/research/team-8) team (ICAGEN) of the Nantes-Angers Cancer and Immunology Research Center (CRCI<sup>2</sup>NA).
 I apply my modeling skills on the integration of single-cell multiomic datasets from [multiple myeloma](https://en.wikipedia.org/wiki/Multiple_myeloma) samples, a plasma cell cancer characterized by its huge heterogeneity across patients
 
@@ -17,7 +21,7 @@ You will find more detailed information about my previous work on the [Research]
 
 Overall, my scientific interests are at the interface of maths, biology, and computer sciences.
 Apart from science, my favorite Linux distribution is [Debian Sid](https://wiki.debian.org/DebianUnstable) and my favorite keyboard layout is [BÉPO](https://en.wikipedia.org/wiki/B%C3%89PO).
-I read fantasy novels (Markus Heitz, Robin Hobb, Andrzej Sapkowski, ...) and watch videos about economics ([Heureka](https://www.youtube.com/c/HeurekaFinanceEco)).
+I read fantasy novels (Markus Heitz, Robin Hobb, Andrzej Sapkowski, Terry Pratchett, ...) and watch videos about economics ([Heureka](https://www.youtube.com/c/HeurekaFinanceEco)).
 I am also a free software and data privacy advocate.
 I like rock climbing and bouldering which I practice around Nantes (it's where I live!).
 
