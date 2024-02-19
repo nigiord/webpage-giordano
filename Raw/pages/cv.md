@@ -163,15 +163,15 @@ Jun.-Jul. 2010
  Publications
 ------------
 
-2023
+2024
 :   **Single-cell data reveal heterogeneity of resource allocation across a bacterial population**  
     *Pavlou A, Cinquemani E, Pinel C, <u>Giordano N</u>, Van Melle Gateau M, Mihalcescu I, Geiselmann J, de Jong H*  
     *Submitted.*
 
-2023
+2024
 :   **Genome-scale community modelling reveals conserved metabolic cross-feedings in epipelagic bacterioplankton communities**  
     *<u>Giordano N,</u> Gaudin M, Trottier C, Delage E, Nef C, Bowler C, Chaffron S*  
-    *In revision.*
+    *Accepted for publication at Nat. Commun. 2024*
 
 2023
 :   **Acquired resistance to a GPRC5D-directed T-cell engager in multiple myeloma is mediated by genetic or epigenetic target inactivation**  

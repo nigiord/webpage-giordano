@@ -12,7 +12,7 @@ You can also find my Google Scholar account [here](https://scholar.google.fr/cit
 <table class="table table-striped table-hover">
 <tbody>
     <tr>
-        <td>2023</td>
+        <td>2024</td>
         <td>
             <strong>Single-cell data reveal heterogeneity of resource allocation across a bacterial population</strong><br />
             Pavlou A, Cinquemani E, Pinel C, <u>Giordano N</u>, Van Melle Gateau M, Mihalcescu I, Geiselmann J, de Jong H<br />
@@ -20,11 +20,11 @@ You can also find my Google Scholar account [here](https://scholar.google.fr/cit
         </td>
     </tr>
     <tr>
-        <td>2023</td>
+        <td>2024</td>
         <td>
             <strong>Genome-scale community modelling reveals conserved metabolic cross-feedings in epipelagic bacterioplankton communities</strong><br />
             <u>Giordano N</u>, Gaudin M, Trottier C, Delage E, Nef C, Bowler C, Chaffron S<br />
-            <i>In revision. Preprint:</i> <a href="https://doi.org/10.1101/2023.06.21.545869"><i class="ai ai-doi ai-2x"></i></a>
+            <i>Accepted for publication at Nat. Commun. 2024. Preprint:</i> <a href="https://doi.org/10.1101/2023.06.21.545869"><i class="ai ai-doi ai-2x"></i></a>
             
         </td>
     </tr>
