@@ -24,7 +24,7 @@ You can also find my Google Scholar account [here](https://scholar.google.fr/cit
         <td>
             <strong>Genome-scale community modelling reveals conserved metabolic cross-feedings in epipelagic bacterioplankton communities</strong><br />
             <u>Giordano N</u>, Gaudin M, Trottier C, Delage E, Nef C, Bowler C, Chaffron S<br />
-            <i>Accepted for publication at Nat. Commun. 2024. Preprint:</i> <a href="https://doi.org/10.1101/2023.06.21.545869"><i class="ai ai-doi ai-2x"></i></a>
+            <i>In press. Nat. Commun. 2024. Preprint:</i> <a href="https://doi.org/10.1101/2023.06.21.545869"><i class="ai ai-doi ai-2x"></i></a>
             
         </td>
     </tr>
