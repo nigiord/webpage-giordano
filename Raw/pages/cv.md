@@ -166,17 +166,21 @@ Jun.-Jul. 2010
 2024
 :   **Single-cell data reveal heterogeneity of resource allocation across a bacterial population**  
     *Pavlou A, Cinquemani E, Pinel C, <u>Giordano N</u>, Van Melle Gateau M, Mihalcescu I, Geiselmann J, de Jong H*  
-    *Submitted.*
+    *In revision.*
 
 2024
 :   **Genome-scale community modelling reveals conserved metabolic cross-feedings in epipelagic bacterioplankton communities**  
     *<u>Giordano N,</u> Gaudin M, Trottier C, Delage E, Nef C, Bowler C, Chaffron S*  
-    *In press. Nat. Commun. 2024*
+    Nat Commun 15, 2721 (2024)
+    <a href="https://doi.org/10.1038/s41467-024-46374-w">
+    <i class="ai ai-doi ai"></i></a>
+    <a href="https://www.nature.com/articles/s41467-024-46374-w.pdf">
+    <i class="fa fa-file-pdf-o fa"></i></a>
 
 2023
 :   **Acquired resistance to a GPRC5D-directed T-cell engager in multiple myeloma is mediated by genetic or epigenetic target inactivation**  
     *Derrien J, Gastineau S, Frigout A, <u>Giordano N</u>, Cherkaoui M, Gaborit V, Boinon R, Douillard E, Devic M, Magrangeas F, Moreau P, Minvielle S, Touzeau C, Letouzé E*  
-    Nat Cancer 2023. Aug 31;1-8.
+    Nat Cancer 4, 1536–1543 (2023)
     <a href="https://doi.org/10.1038/s43018-023-00625-9">
     <i class="ai ai-doi ai"></i></a>
     <a href="https://www.nature.com/articles/s43018-023-00625-9">
@@ -223,6 +227,7 @@ Jun.-Jul. 2010
 Other research activities
 -------------------------
 
+* Reviewer for <a href="https://journals.asm.org/journal/msystems">mSystems</a>
 * Reviewer for European Control Conference 2019 ([ECC19](https://ecc19.eu/))
 
 

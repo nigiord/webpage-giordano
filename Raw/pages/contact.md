@@ -15,13 +15,15 @@ I prefer to be contacted by email, but I'm also reachable on the following servi
 
 <ul class="list-group" id="social">
 <li class="list-group-item"><i class="fa fa-comment-o fa-lg"></i>
-Signal: (ask for my number using my email above)</li>
+Signal: nigiord.95 (<a href="https://signal.org/fr/download/" target=”_blank”>Get Signal</a>)</li>
 <li class="list-group-item"><i class="fa fa-github-square fa-lg"></i>
-Github: <a href="https://github.com/nigiord">nigiord</a></li>
+Github: <a href="https://github.com/nigiord" target=”_blank”>nigiord</a></li>
 <li class="list-group-item"><i class="ai ai-google-scholar-square ai-lg"></i>
-Google Scholar: <a href="https://scholar.google.fr/citations?user=r4wI-i4AAAAJ">Nils Giordano</a></li>
+Google Scholar: <a href="https://scholar.google.fr/citations?user=vVhTobMAAAAJ" target=”_blank”>Nils Giordano</a></li>
 <li class="list-group-item"><i class="ai ai-orcid-square ai-lg"></i>
-Orcid: <a href="https://orcid.org/0000-0003-2549-6631">0000-0003-2549-6631</a></li>
+Orcid: <a href="https://orcid.org/0000-0003-2549-6631" target=”_blank”>0000-0003-2549-6631</a></li>
+<li class="list-group-item"><i class="ai ai-clarivate-square ai-lg"></i>
+Web of Science: <a href="https://www.webofscience.com/wos/author/record/KPY-0597-2024" target=”_blank”>KPY-0597-2024</a></li>
 <li class="list-group-item"><i class="fa fa-linkedin-square fa-lg"></i>
-Linkedin: <a href="hhttps://www.linkedin.com/in/nils-giordano/">Nils Giordano</a></li>
+Linkedin: <a href="hhttps://www.linkedin.com/in/nils-giordano/" target=”_blank”>Nils Giordano</a></li>
 </ul>

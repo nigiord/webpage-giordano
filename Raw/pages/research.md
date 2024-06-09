@@ -16,15 +16,15 @@ You can also find my Google Scholar account [here](https://scholar.google.fr/cit
         <td>
             <strong>Single-cell data reveal heterogeneity of resource allocation across a bacterial population</strong><br />
             Pavlou A, Cinquemani E, Pinel C, <u>Giordano N</u>, Van Melle Gateau M, Mihalcescu I, Geiselmann J, de Jong H<br />
-            <i>Submitted.</i>
+            <i>In revision.</i>
         </td>
     </tr>
     <tr>
         <td>2024</td>
         <td>
-            <strong>Genome-scale community modelling reveals conserved metabolic cross-feedings in epipelagic bacterioplankton communities</strong><br />
+            <i class="ai ai-open-access"></i><strong>Genome-scale community modelling reveals conserved metabolic cross-feedings in epipelagic bacterioplankton communities.</strong><br />
             <u>Giordano N</u>, Gaudin M, Trottier C, Delage E, Nef C, Bowler C, Chaffron S<br />
-            <i>In press. Nat. Commun. 2024. Preprint:</i> <a href="https://doi.org/10.1101/2023.06.21.545869"><i class="ai ai-doi ai-2x"></i></a>
+            Nat Commun 15, 2721 (2024) <a href="https://doi.org/10.1038/s41467-024-46374-w"><i class="ai ai-doi ai-2x"></i></a><a href="https://www.nature.com/articles/s41467-024-46374-w.pdf"><i class="fa fa-file-pdf-o fa-2x"></i></a>
             
         </td>
     </tr>
@@ -33,7 +33,7 @@ You can also find my Google Scholar account [here](https://scholar.google.fr/cit
         <td>
             <strong>Acquired resistance to a GPRC5D-directed T-cell engager in multiple myeloma is mediated by genetic or epigenetic target inactivation</strong><br />
             Derrien J, Gastineau, S, Frigout A, <u>Giordano N</u>, Cherkaoui M, Gaborit V, Boinon R, Douillard E, Devic M, Magrangeas F, Moreau P, Minvielle S, Touzeau C, Letouzé E<br />
-            Nat Cancer 2023. Aug 31;1-8. <a href="https://doi.org/10.1038/s43018-023-00625-9"><i class="ai ai-doi ai-2x"></i></a><a href="https://www.nature.com/articles/s43018-023-00625-9"><i class="fa fa-file-pdf-o fa-2x"></i></a>
+            Nat Cancer 4, 1536–1543 (2023) <a href="https://doi.org/10.1038/s43018-023-00625-9"><i class="ai ai-doi ai-2x"></i></a><a href="https://www.nature.com/articles/s43018-023-00625-9"><i class="fa fa-file-pdf-o fa-2x"></i></a>
         </td>
     </tr>
     <tr>
@@ -86,6 +86,13 @@ Some scientific meetings where I have been or plan to be.
     </tr>
 </thead>
 <tbody>
+    <tr>
+        <td align='center'>Mar. 2024</td>
+        <td align='center'>Nantes, France</td>
+        <td>CRCI<sup>2</sup>NA Cancer & Immunology Symposium (1st edition)
+        </td>
+        <td></td>
+    </tr>
     <tr>
         <td align='center'>Mar. 2023</td>
         <td align='center'>Nantes, France</td>
@@ -239,9 +246,15 @@ Some scientific meetings where I have been or plan to be.
         </td>
     </tr>
     <tr>
-        <td align='center' width="8%">2018</td>
+        <td align='center' width="8%"></td>
         <td align='left' width="65%">
-            Reviewer for European Control Conference 2019 (<a href="https://ecc19.eu/">ECC19</a>)
+            Reviewer for <a href="https://journals.asm.org/journal/msystems">mSystems</a>
+        </td>
+    </tr>
+    <tr>
+        <td align='center' width="8%"></td>
+        <td align='left' width="65%">
+            Reviewer for <a href="https://ecc19.eu/">European Control Conference 2019</a> (ECC19)
         </td>
     </tr>
 </tbody>
