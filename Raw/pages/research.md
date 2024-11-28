@@ -16,7 +16,7 @@ You can also find my Google Scholar account [here](https://scholar.google.fr/cit
         <td>
             <strong>Single-cell data reveal heterogeneity of resource allocation across a bacterial population</strong><br />
             Pavlou A, Cinquemani E, Pinel C, <u>Giordano N</u>, Van Melle Gateau M, Mihalcescu I, Geiselmann J, de Jong H<br />
-            <i>In revision.</i>
+            <i>In revision at Nat Commun.</i> Preprint: <a href="https://doi.org/10.1101/2024.04.26.591328"><i class="ai ai-doi ai-2x"></i></a>
         </td>
     </tr>
     <tr>
@@ -25,7 +25,6 @@ You can also find my Google Scholar account [here](https://scholar.google.fr/cit
             <i class="ai ai-open-access"></i><strong>Genome-scale community modelling reveals conserved metabolic cross-feedings in epipelagic bacterioplankton communities.</strong><br />
             <u>Giordano N</u>, Gaudin M, Trottier C, Delage E, Nef C, Bowler C, Chaffron S<br />
             Nat Commun 15, 2721 (2024) <a href="https://doi.org/10.1038/s41467-024-46374-w"><i class="ai ai-doi ai-2x"></i></a><a href="https://www.nature.com/articles/s41467-024-46374-w.pdf"><i class="fa fa-file-pdf-o fa-2x"></i></a>
-            
         </td>
     </tr>
     <tr>
@@ -86,6 +85,13 @@ Some scientific meetings where I have been or plan to be.
     </tr>
 </thead>
 <tbody>
+    <tr>
+        <td align='center'>Sep. 2024</td>
+        <td align='center'>Nantes, France</td>
+        <td>Epinantes 2024 (<a href="https://www.epinantes2024.com">7th edition of the EpiCongress</a>)
+        </td>
+        <td></td>
+    </tr>
     <tr>
         <td align='center'>Mar. 2024</td>
         <td align='center'>Nantes, France</td>
