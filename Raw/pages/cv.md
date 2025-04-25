@@ -55,8 +55,10 @@ Since Jan. 2023
     Dr. Éric Letouzé
     ([ICAGEN team](https://crci2na.univ-nantes.fr/en/research/team-8), CRCI<sup>2</sup>NA, INSERM U1307)*
     
-    * Multiple Myeloma · Single Cell Multiomics · Next-Generation Sequencing (NGS)
-
+    * Developed, maintained, and deployed pipelines for single-cell multi-omics data analysis of tumor samples
+    * Integrated multi-omics datasets at both whole-genome and single-cell resolution 
+    * Identified features for patient stratification and treatment response prediction
+    * Reconstructed the subclonal history of each tumor based on genetic, epigenetic, and functional data
 
 Apr. 2020 - Jun. 2022
 :   **Research Scientist
@@ -163,10 +165,14 @@ Jun.-Jul. 2010
  Publications
 ------------
 
-2024
+2025
 :   **Single-cell data reveal heterogeneity of resource allocation across a bacterial population**  
     *Pavlou A, Cinquemani E, Pinel C, <u>Giordano N</u>, Van Melle Gateau M, Mihalcescu I, Geiselmann J, de Jong H*  
-    *In revision.*
+    Nat Commun 16, 285 (2025)
+    <a href="https://doi.org/10.1038/s41467-024-55394-5">
+    <i class="ai ai-doi ai"></i></a>
+    <a href="https://www.nature.com/articles/s41467-024-55394-5.pdf">
+    <i class="fa fa-file-pdf-o fa"></i></a>
 
 2024
 :   **Genome-scale community modelling reveals conserved metabolic cross-feedings in epipelagic bacterioplankton communities**  
@@ -233,6 +239,15 @@ Other research activities
 
 Teaching experience
 -------------------
+
+Sept. 2024 to Jan. 2025
+:      
+
+    * **Bioinformatics**, Université de Nantes, 20 hours
+    *Tutorials and pratical exercises.*
+
+    * **Big Data: introduction to bioanalysis**, Université de Nantes, 8 hours
+    *Pratical exercises.*
 
 July 2018
 :    * **Environmental Genomics**, Université d’Angers, 3 hours  

@@ -12,11 +12,11 @@ You can also find my Google Scholar account [here](https://scholar.google.fr/cit
 <table class="table table-striped table-hover">
 <tbody>
     <tr>
-        <td>2024</td>
+        <td>2025</td>
         <td>
             <strong>Single-cell data reveal heterogeneity of resource allocation across a bacterial population</strong><br />
             Pavlou A, Cinquemani E, Pinel C, <u>Giordano N</u>, Van Melle Gateau M, Mihalcescu I, Geiselmann J, de Jong H<br />
-            <i>In revision at Nat Commun.</i> Preprint: <a href="https://doi.org/10.1101/2024.04.26.591328"><i class="ai ai-doi ai-2x"></i></a>
+            Nat Commun 16, 285 (2025) <a href="https://doi.org/10.1038/s41467-024-55394-5"><i class="ai ai-doi ai-2x"></i></a><a href="https://www.nature.com/articles/s41467-024-55394-5.pdf"><i class="fa fa-file-pdf-o fa-2x"></i></a>
         </td>
     </tr>
     <tr>
@@ -246,19 +246,25 @@ Some scientific meetings where I have been or plan to be.
 <table class="table">
 <tbody>
     <tr>
-        <td align='center' width="8%">2019</td>
+        <td align='center' width="8%">2025-2029</td>
+        <td align='left' width="65%">
+            Qualification CNU Maître de Conférence: Section 65 Biologie Cellulaire (<a href="https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/qualification/Resultats_2025/Qualifies_MCF.pdf">CNU</a>)
+        </td>
+    </tr>
+    <tr>
+        <td align='center' width="8%">2019-2023</td>
         <td align='left' width="65%">
             Qualification CNU Maître de Conférence: Section 65 Biologie Cellulaire (<a href="https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/qualification/Resultats2019/qualifies2019_MCF.pdf">CNU</a>)
         </td>
     </tr>
     <tr>
-        <td align='center' width="8%"></td>
+        <td align='center' width="8%">Since 2024</td>
         <td align='left' width="65%">
             Reviewer for <a href="https://journals.asm.org/journal/msystems">mSystems</a>
         </td>
     </tr>
     <tr>
-        <td align='center' width="8%"></td>
+        <td align='center' width="8%">2019</td>
         <td align='left' width="65%">
             Reviewer for <a href="https://ecc19.eu/">European Control Conference 2019</a> (ECC19)
         </td>
