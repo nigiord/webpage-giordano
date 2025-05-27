@@ -86,6 +86,32 @@ Some scientific meetings where I have been or plan to be.
 </thead>
 <tbody>
     <tr>
+        <td align='center'>Jul. 2025</td>
+        <td align='center'>Bordeaux, France</td>
+        <td>
+        Journées Ouvertes Biologie, Informatique & Mathématiques (<a href="https://jobim2025.labri.fr/">JOBIM 2025</a>)
+        </td>
+        <td>
+            Poster (in progress)
+            and <a href="pdfs/Abstract_jobim2025_posters.pdf">Abstract <i class="fa fa-file-pdf-o fa-2x"></i></a>
+        </td>
+    </tr>
+    <tr>
+        <td align='center'>Jun. 2025</td>
+        <td align='center'>Nantes, France</td>
+        <td>
+        Forum des utilisateurs BiRD
+        </td>
+        <td>Presentation (in progress)</td>
+    </tr>
+    <tr>
+        <td align='center'>May 2025</td>
+        <td align='center'>Nantes, France</td>
+        <td>From Biomarkers to Innovative Therapies in High-Risk Cancers (<a href="https://js.univ-nantes.fr/">18th edition of the Journées Scientifiques de Nantes Université</a>)
+        </td>
+        <td><a href="pdfs/2025-05-27_NilsGiordano_JourneesScientifiquesUniversite.pdf">Presentation <i class="fa fa-file-pdf-o fa-2x"></i></a></td>
+    </tr>
+    <tr>
         <td align='center'>Sep. 2024</td>
         <td align='center'>Nantes, France</td>
         <td>Epinantes 2024 (<a href="https://www.epinantes2024.com">7th edition of the EpiCongress</a>)

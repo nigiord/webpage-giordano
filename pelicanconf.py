@@ -23,9 +23,11 @@ EXTRA_PATH_METADATA = {
 RELATIVE_URLS = True
 
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['i18n_subsites',
-           'pelican_resume',
-           'bootstrapify']
+PLUGINS = [
+    'i18n_subsites',
+    'pelican_resume',
+    'bootstrapify'
+]
 
 MARKDOWN = {
         'extension_configs': {
